@@ -139,7 +139,18 @@ def build_player_features() -> pd.DataFrame:
         df["team_win_rate"] = None
         df["team_goals_for_avg"] = None
         df["team_goals_against_avg"] = None
-
+    # Bring in photos from the Transfermarkt data (football-data.org has no image URLs)
+    market_values_path = f"{DATA_DIR}/pl_market_values.csv"
+    if os.path.exists(market_values_path):
+       tm = pd.read_csv(market_values_path)
+       tm["match_name"] = tm["name"].str.lower().str.strip()
+       df["match_name"] = df["player_name"].str.lower().str.strip()
+       df = df.merge(tm[["match_name", "image_url"]], on="match_name", how="left")
+       df = df.drop(columns=["match_name"])
+       matched = df["image_url"].notna().sum()
+       print(f"Matched photos for {matched}/{len(df)} players")
+    else:
+       df["image_url"] = None
     os.makedirs(DATA_DIR, exist_ok=True)
     df.to_csv(FEATURES_FILE, index=False, encoding="utf-8-sig")
     print(f"Saved {len(df)} player rows to {FEATURES_FILE}")

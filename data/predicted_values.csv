@@ -1,554 +1,554 @@
-﻿player_name,team,position_group,age,goals,assists,predicted_market_value_eur
-Erling Haaland,Manchester City FC,Forward,26,5,0,165300000.0
-Declan Rice,Arsenal FC,Midfielder,27,0,0,102005000.0
-Bukayo Saka,Arsenal FC,Forward,25,3,0,92100000.0
-Cole Palmer,Chelsea FC,Midfielder,24,2,2,87500000.0
-Myles Lewis-Skelly,Arsenal FC,Midfielder,20,0,0,86523333.33333333
-Rayan Cherki,Manchester City FC,Midfielder,23,3,2,85606666.66666667
-Enzo Fernández,Manchester City FC,Midfielder,25,1,0,82950000.0
-Morgan Rogers,Chelsea FC,Midfielder,24,3,1,81713333.33333333
-Martín Zubimendi,Arsenal FC,Midfielder,27,0,0,79883333.33333333
-Martin Ødegaard,Arsenal FC,Midfielder,27,2,0,79571666.66666667
-Phil Foden,Manchester City FC,Midfielder,26,0,0,79216666.66666667
-Moisés Caicedo,Chelsea FC,Midfielder,24,0,0,78710000.0
-Elliot Anderson,Manchester City FC,Midfielder,23,0,0,78633333.33333333
-João Pedro,Chelsea FC,Forward,25,3,3,76606666.66666667
-Antoine Semenyo,Manchester City FC,Forward,26,2,3,75200000.0
-Eberechi Eze,Arsenal FC,Midfielder,28,0,0,73806666.66666667
-Florian Wirtz,Liverpool FC,Midfielder,23,0,0,70805000.0
-Joško Gvardiol,Manchester City FC,Defender,24,1,2,68893333.33333333
-Bruno Guimarães,Arsenal FC,Midfielder,28,1,0,68626666.66666667
-Alexander Isak,Liverpool FC,Forward,27,4,0,68071666.66666667
-Ray Paez,Chelsea FC,Midfielder,19,0,0,67322777.77777779
-Jeremy Doku,Manchester City FC,Forward,24,0,0,67233333.33333333
-Marc Guéhi,Manchester City FC,Defender,26,1,1,66883333.333333336
-Morgan Gibbs-White,Nottingham Forest FC,Midfielder,26,1,2,62743333.333333336
-Jurrien Timber,Arsenal FC,Defender,25,0,0,62563333.333333336
-Nilson Angulo,Sunderland AFC,Forward,23,1,1,62560000.0
-Ayyoub Bouaddi,Manchester City FC,Midfielder,18,0,0,61343333.333333336
-Benjamin Šeško,Manchester United FC,Forward,23,1,0,61166666.666666664
-Kai Havertz,Arsenal FC,Forward,27,2,0,60621666.666666664
-Matheus Cunha,Manchester United FC,Forward,27,1,1,60243333.333333336
-Sandro Tonali,Tottenham Hotspur FC,Midfielder,26,0,0,59623333.333333336
-Viktor Gyökeres,Arsenal FC,Forward,28,0,0,58946666.666666664
-Iliman Ndiaye,Manchester City FC,Forward,26,0,0,57426666.666666664
-Rayan Aït Nouri,Manchester City FC,Defender,25,0,0,57200000.0
-Allan,Manchester City FC,Forward,22,0,0,56983333.333333336
-Noni Madueke,Arsenal FC,Forward,24,0,0,56786666.666666664
-Christos Tzolis,Arsenal FC,Forward,24,0,0,56006666.666666664
-Emersonn,Ipswich Town FC,Forward,22,2,1,55518333.333333336
-Cody Gakpo,Liverpool FC,Forward,27,1,3,55308333.333333336
-Riccardo Calafiori,Arsenal FC,Defender,24,0,0,54380000.0
-Abdukodir Khusanov,Manchester City FC,Defender,22,0,0,54183333.333333336
-Kobbie Mainoo,Manchester United FC,Midfielder,21,0,0,54166666.666666664
-Josh Wilson-Esbrand,Manchester City FC,Defender,23,0,0,53816666.666666664
-Juan Angulo,Sunderland AFC,Forward,18,0,0,53770000.0
-Adam Wharton,Crystal Palace FC,Midfielder,22,0,0,53128333.333333336
-Óscar Zambrano,Hull City AFC,Midfielder,22,0,0,52995000.0
-Piero Hincapié,Arsenal FC,Defender,24,0,0,52930000.0
-Nico O'Reilly,Manchester City FC,Defender,21,0,0,52666666.666666664
-Rico Lewis,Manchester City FC,Defender,21,0,0,52666666.666666664
-Cristhian Mosquera,Arsenal FC,Defender,22,0,0,52561666.666666664
-Reece James,Chelsea FC,Defender,26,0,0,52536333.333333336
-Pedro Neto,Chelsea FC,Forward,26,1,0,52473333.333333336
-Alexis Mac Allister,Liverpool FC,Midfielder,27,0,0,52168333.333333336
-Enzo Le Fée,Sunderland AFC,Midfielder,26,1,1,51755000.0
-Vitor Reis,Manchester City FC,Defender,20,0,0,51333333.333333336
-Destiny Udogie,Tottenham Hotspur FC,Defender,23,0,0,50866000.0
-Gabriel Magalhães,Arsenal FC,Defender,28,0,0,50583333.333333336
-Carlos Baleba,Manchester United FC,Midfielder,22,0,0,50360000.0
-Mohamed Belloumi,Hull City AFC,Forward,24,2,2,49983333.333333336
-Matheus Nunes,Manchester City FC,Defender,28,0,0,49313333.333333336
-Ben White,Arsenal FC,Defender,28,0,0,47373333.333333336
-Ezri Konsa,Arsenal FC,Defender,28,0,0,47373333.333333336
-Luka Vušković,Brighton & Hove Albion FC,Defender,19,1,0,47006666.666666664
-Rayan,AFC Bournemouth,Forward,20,0,0,46325333.333333336
-Johan Manzambi,Aston Villa FC,Midfielder,20,1,1,46157222.22222222
-Dominik Szoboszlai,Liverpool FC,Midfielder,25,1,0,46138333.333333336
-Leif Davis,Ipswich Town FC,Defender,26,2,1,46050000.0
-Levi Colwill,Chelsea FC,Defender,23,0,0,45881333.333333336
-Andrey Santos,Manchester United FC,Midfielder,22,0,0,44686666.666666664
-Patrick Dorgu,Manchester United FC,Forward,21,0,0,43978888.888888896
-Gianluigi Donnarumma,Manchester City FC,Goalkeeper,27,0,0,43539444.44444444
-Ryan McAidoo,Manchester City FC,Forward,18,0,0,43403333.333333336
-Leny Yoro,Manchester United FC,Defender,20,0,0,43035555.55555556
-Anan Khalaili,Crystal Palace FC,Midfielder,22,1,0,42738333.333333336
-Murillo,Nottingham Forest FC,Defender,24,0,0,41533333.333333336
-Malick Thiaw,Newcastle United FC,Defender,25,0,0,41496666.666666664
-Josh Acheampong,Chelsea FC,Defender,20,0,0,41278000.0
-Lewis Hall,Newcastle United FC,Defender,1,1,1,40993333.333333336
-Max Dowman,Arsenal FC,Forward,16,0,0,40816666.666666664
-Alex Scott,AFC Bournemouth,Midfielder,23,1,0,40600000.0
-Jamie Bynoe-Gittens,Chelsea FC,Forward,22,0,0,40562666.666666664
-Maxence Lacroix,Chelsea FC,Defender,26,0,0,40160000.0
-Omar Marmoush,Tottenham Hotspur FC,Forward,27,0,0,40080333.333333336
-Jair Paula,Nottingham Forest FC,Defender,21,0,0,40057777.777777776
-Kevin Schade,Brentford FC,Forward,24,3,0,40020000.0
-Mateus Fernandes,Tottenham Hotspur FC,Midfielder,22,0,0,39945333.333333336
-Valentin Barco,Chelsea FC,Midfielder,22,0,0,39919000.0
-Amad Diallo,Manchester United FC,Forward,24,0,0,39743333.333333336
-Marco Palestra,Chelsea FC,Defender,21,0,0,39703333.333333336
-William Saliba,Arsenal FC,Defender,25,0,0,39566666.666666664
-Matheus Franca,Crystal Palace FC,Forward,22,0,0,39354444.44444444
-Jan Paul van Hecke,Tottenham Hotspur FC,Defender,26,1,0,39237333.333333336
-Ryan Gravenberch,Liverpool FC,Midfielder,24,0,0,38946666.666666664
-Bryan Mbeumo,Manchester United FC,Forward,27,2,0,38773333.333333336
-Amadou Onana,Aston Villa FC,Midfielder,25,0,0,38578333.333333336
-Víctor Muñoz,Liverpool FC,Forward,23,1,0,38343333.333333336
-Michael Kayode,Brentford FC,Defender,22,1,0,38296666.666666664
-Luca Netz,Nottingham Forest FC,Defender,23,0,0,38243333.333333336
-Rúben Dias,Manchester City FC,Defender,29,0,0,37735000.0
-Jaka Bijol,Leeds United FC,Defender,27,0,0,37571666.666666664
-Igor Jesus,Nottingham Forest FC,Forward,25,1,0,37106666.666666664
-Keane Lewis-Potter,Brentford FC,Midfielder,25,1,1,36792666.666666664
-Evanilson,AFC Bournemouth,Forward,26,0,0,36650000.0
-Ayden Heaven,Manchester United FC,Defender,20,0,0,36533333.333333336
-Romeo Lavia,Chelsea FC,Midfielder,22,1,0,36436666.666666664
-Emanuel Emegha,Chelsea FC,Forward,23,0,0,36370000.0
-Wesley Fofana,Chelsea FC,Defender,25,0,0,36350000.0
-Matteo Ruggeri,Aston Villa FC,Defender,24,0,0,36326666.666666664
-Sávio,Tottenham Hotspur FC,Forward,22,0,0,36243047.61904762
-Aaron Anselmino,Chelsea FC,Defender,21,0,0,36223333.333333336
-Jorrel Hato,Chelsea FC,Defender,20,0,0,35990000.0
-Nico Gonzalez,Newcastle United FC,Midfielder,24,0,0,35733333.333333336
-Malo Gusto,Chelsea FC,Defender,23,0,0,35450000.0
-Darío Osorio,Crystal Palace FC,Forward,22,0,0,35201111.111111104
-Amar Dedić,Newcastle United FC,Defender,24,0,0,35196666.666666664
-Jørgen Strand Larsen,Crystal Palace FC,Forward,26,1,0,34986666.666666664
-Honest Ahanor,Crystal Palace FC,Defender,18,0,0,34971666.666666664
-Jeremie Frimpong,Liverpool FC,Defender,25,0,0,34853333.333333336
-Estevao,Chelsea FC,Forward,19,0,0,34711111.111111104
-Ilyas Ansah,Hull City AFC,Forward,21,0,0,34376999.99999999
-Thiago,Brentford FC,Forward,25,1,0,34150000.0
-Hugo Ekitike,Liverpool FC,Forward,24,0,0,33994333.333333336
-Bradley Barcola,Liverpool FC,Forward,24,0,0,33994333.333333336
-Milos Kerkez,Liverpool FC,Defender,22,0,0,33791666.666666664
-Gustavo Gomes,Brentford FC,Forward,20,0,0,33763333.333333336
-João Gomes,Aston Villa FC,Midfielder,25,0,0,33761666.666666664
-Harvey Barnes,Newcastle United FC,Forward,28,1,2,33610000.0
-Mickey van de Ven,Tottenham Hotspur FC,Defender,25,0,0,33394444.44444444
-Mahdi Nicoll-Jazuli,Chelsea FC,Unknown,16,0,0,33222666.666666668
-Jacob Ramsey,Newcastle United FC,Midfielder,25,1,0,33128333.333333332
-Valentino Livramento,Newcastle United FC,Defender,23,0,0,33054000.0
-Maxim De Cuyper,Brighton & Hove Albion FC,Defender,25,1,2,32890000.0
-Yasin Ayari,Brighton & Hove Albion FC,Midfielder,22,1,1,32758333.333333332
-Boubacar Kamara,Aston Villa FC,Midfielder,26,0,0,32723333.333333332
-Sven Botman,Newcastle United FC,Defender,26,0,0,32686666.666666668
-Dermot Mee,Manchester United FC,Goalkeeper,23,0,0,32568333.333333332
-Dango Ouattara,Brentford FC,Forward,24,0,0,32331666.666666668
-Ronald Araújo,Liverpool FC,Defender,27,0,0,32235000.0
-Conor Gallagher,Tottenham Hotspur FC,Midfielder,26,1,0,32218333.333333332
-Jesurun Rak-Sakyi,Crystal Palace FC,Forward,23,0,0,32185000.0
-Archie Gray,Tottenham Hotspur FC,Defender,20,0,0,31947333.333333332
-Dan Ndoye,Nottingham Forest FC,Forward,25,1,0,31853333.333333332
-Ferdi Kadıoğlu,Brighton & Hove Albion FC,Defender,26,0,0,31813333.333333332
-Jarrad Branthwaite,Everton FC,Defender,24,0,0,31788333.333333332
-Ismaïla Sarr,Crystal Palace FC,Forward,28,0,0,31446666.666666668
-Anthony Elanga,Newcastle United FC,Forward,24,2,0,31260000.0
-Pedro Porro,Tottenham Hotspur FC,Defender,27,0,0,31208777.777777772
-Charalampos Kostoulas,Brighton & Hove Albion FC,Forward,19,2,1,30943333.333333332
-Jaydee Canvot,Crystal Palace FC,Defender,20,0,0,30913888.888888888
-Conor Bradley,Liverpool FC,Defender,23,0,0,30886666.666666668
-Lucas Bergvall,Tottenham Hotspur FC,Midfielder,20,0,0,30866666.66666666
-Brian Brobbey,Sunderland AFC,Forward,24,3,0,30838333.333333332
-Geovany Quenda,Chelsea FC,Forward,19,0,0,30807777.777777772
-Nicolas Jackson,Aston Villa FC,Forward,25,1,0,30493333.333333332
-Senne Lammens,Manchester United FC,Goalkeeper,24,0,0,30470333.333333332
-Ben Winterburn,AFC Bournemouth,Midfielder,22,0,0,30461666.666666668
-Matias Fernandez-Pardo,Newcastle United FC,Forward,21,0,0,30327555.555555552
-Kevin Santos,Fulham FC,Forward,23,0,0,30121666.666666668
-Chema Andrés,Brighton & Hove Albion FC,Midfielder,21,1,1,30052222.222222228
-Bart Verbruggen,Brighton & Hove Albion FC,Goalkeeper,24,0,0,29862666.666666668
-Ian Maatsen,Aston Villa FC,Defender,24,0,0,29840000.0
-Diogo Dalot,Manchester United FC,Defender,27,0,0,29763333.333333332
-Mikel Merino,Arsenal FC,Midfielder,30,0,0,29728333.333333332
-Nobel Mendy,Hull City AFC,Defender,22,1,0,29702222.22222222
-William Osula,Newcastle United FC,Forward,23,0,0,29633333.333333332
-Mohammed Kudus,Tottenham Hotspur FC,Forward,26,0,0,29469000.0
-Mykhailo Mudryk,Tottenham Hotspur FC,Forward,25,0,0,29466777.77777778
-Chadi Riad,Crystal Palace FC,Defender,23,0,0,29463333.333333332
-Jeremy Jacquet,Liverpool FC,Defender,21,0,0,29462111.11111111
-Kiernan Dewsbury Hall,Everton FC,Midfielder,28,1,0,29435000.0
-Habib Diarra,Sunderland AFC,Midfielder,22,0,0,29333333.333333332
-Georginio Rutter,Brighton & Hove Albion FC,Forward,24,0,0,29190000.0
-Jaouen Hadjam,Brighton & Hove Albion FC,Defender,23,0,0,29075000.0
-Manuel Ugarte,Manchester United FC,Midfielder,25,0,0,29053333.333333332
-Charlie Hughes,Hull City AFC,Defender,22,0,0,28944444.44444444
-Brooke Norton-Cuffy,Hull City AFC,Defender,22,0,0,28944444.44444444
-Teddy Sharman-Lowe,Chelsea FC,Goalkeeper,23,0,0,28909000.0
-Matthijs de Ligt,Manchester United FC,Defender,27,0,0,28773333.333333332
-Costinha,Brighton & Hove Albion FC,Defender,26,0,0,28743333.333333332
-Bazoumana Touré,Newcastle United FC,Forward,20,1,0,28715555.55555556
-Yegor Yarmolyuk,Brentford FC,Midfielder,22,0,0,28713000.0
-Taylor Harwood-Bellis,Aston Villa FC,Defender,24,0,0,28641666.666666668
-Thierno Barry,Everton FC,Forward,26,2,0,28563333.333333332
-Promise Akinpelu,Brighton & Hove Albion FC,Forward,25,0,0,28471666.666666668
-Sepp van den Berg,Brentford FC,Defender,24,0,0,28454666.666666668
-Modou Keba Cisse,Aston Villa FC,Defender,21,0,0,28444444.444444444
-Neco Williams,Nottingham Forest FC,Defender,25,0,0,28370000.0
-Matt O'Riley,Brighton & Hove Albion FC,Midfielder,25,0,0,28340000.0
-Yankubah Minteh,Brighton & Hove Albion FC,Forward,22,0,0,28313333.333333332
-Marcus Tavernier,AFC Bournemouth,Midfielder,27,3,0,28036666.666666668
-Giovanni Leoni,Liverpool FC,Defender,19,0,0,27955000.0
-Quinten Timber,Crystal Palace FC,Midfielder,25,0,0,27911666.666666668
-Rodrigo Muniz,Fulham FC,Forward,25,0,0,27880000.0
-Liam Delap,Nottingham Forest FC,Forward,23,1,0,27768333.333333332
-Nathan Collins,Brentford FC,Defender,25,0,0,27606666.666666668
-Arnaud Kalimuendo,Nottingham Forest FC,Forward,24,0,0,27575777.777777776
-Adrien Truffert,AFC Bournemouth,Defender,24,0,0,27574333.333333332
-Alvaro Rodriguez,AFC Bournemouth,Forward,22,0,0,27542000.0
-Eliot Matazo,Hull City AFC,Midfielder,24,0,0,27518333.333333332
-Benjamin Fredrick,Brentford FC,Defender,21,0,0,27483555.555555556
-Eli Kroupi,AFC Bournemouth,Forward,20,0,0,27443444.444444444
-Ji-soo Kim,Brentford FC,Defender,21,0,0,27440222.222222224
-Brennan Johnson,Everton FC,Forward,25,0,0,27423333.333333332
-Callum Hudson-Odoi,Nottingham Forest FC,Forward,25,0,0,27416666.666666668
-Antonio Silva,AFC Bournemouth,Defender,22,0,0,27383333.333333332
-César Palacios,Fulham FC,Midfielder,21,1,0,27377777.77777778
-Gonzalo García,Fulham FC,Forward,22,1,0,27336666.666666668
-Daniel Jebbison,AFC Bournemouth,Forward,23,0,0,27328333.333333332
-Xavi Simons,Tottenham Hotspur FC,Midfielder,23,0,0,27264666.666666668
-Bruno Fernandes,Manchester United FC,Midfielder,32,3,1,27031666.666666668
-El Hadji Malick Diouf,Brentford FC,Defender,3,0,0,27016666.666666668
-Yeremi Pino,Crystal Palace FC,Forward,23,0,0,26938333.333333332
-Leo Shahar,Newcastle United FC,Defender,19,0,0,26914000.0
-Pep Chavarría,Chelsea FC,Defender,28,0,0,26830000.0
-Giorgi Mamardashvili,Liverpool FC,Goalkeeper,25,0,0,26803000.0
-Nicolò Savona,Nottingham Forest FC,Defender,23,0,0,26770000.0
-Zavier Gozo,Crystal Palace FC,Forward,19,0,0,26736666.666666668
-Mats Wieffer,Brighton & Hove Albion FC,Defender,26,0,0,26663333.333333332
-Aladji Bamba,Newcastle United FC,Midfielder,20,0,0,26638888.88888889
-Anton Stach,Leeds United FC,Midfielder,27,1,0,26566666.666666668
-Jack Hinshelwood,Brighton & Hove Albion FC,Midfielder,21,2,0,26551000.0
-Ben Doak,AFC Bournemouth,Forward,20,0,0,26485111.11111111
-Mason Mount,Manchester United FC,Midfielder,27,0,0,26461666.666666668
-Mikkel Damsgaard,Brentford FC,Midfielder,26,0,0,26457333.333333332
-Jannik Schuster,Brentford FC,Defender,20,0,0,26426666.666666668
-Milan van Ewijk,Coventry City FC,Defender,26,0,0,26260000.0
-Joshua Zirkzee,Manchester United FC,Forward,25,0,0,26163333.333333332
-Jean-Philippe Mateta,Crystal Palace FC,Forward,29,0,0,26153333.333333332
-Evann Guessand,Crystal Palace FC,Forward,25,0,0,26080000.0
-Diego Gómez,Brighton & Hove Albion FC,Midfielder,23,0,0,26050000.0
-Vítězslav Jaroš,Liverpool FC,Goalkeeper,25,0,0,26012666.666666668
-Bafodé Diakité,AFC Bournemouth,Defender,25,0,0,25987666.666666668
-Lukáš Horníček,Newcastle United FC,Goalkeeper,24,0,0,25911000.0
-Malick Fofana,Sunderland AFC,Forward,21,0,0,25753333.333333332
-Joshua King,Fulham FC,Midfielder,19,2,0,25726666.666666668
-Oscar Bobb,Fulham FC,Forward,23,0,0,25708333.333333332
-Lewis Miley,Newcastle United FC,Midfielder,20,0,0,25615222.222222224
-Ousmane Diomande,Nottingham Forest FC,Defender,21,0,0,25592222.222222224
-Justin Kluivert,AFC Bournemouth,Midfielder,27,1,0,25548333.333333332
-Stephen Mfuni,Coventry City FC,Defender,18,0,0,25535666.666666668
-Amine Adli,AFC Bournemouth,Forward,26,0,0,25500000.0
-Alejandro Garnacho,Aston Villa FC,Forward,22,0,0,25496666.666666668
-Tyrique George,Everton FC,Forward,20,1,0,25325000.0
-Youri Tielemans,Manchester United FC,Midfielder,29,0,0,25183333.333333332
-Tyrick Mitchell,Crystal Palace FC,Defender,27,2,0,25121666.666666668
-Bobby Thomas,Coventry City FC,Defender,25,0,0,24994000.0
-Dominic Solanke,Tottenham Hotspur FC,Forward,29,0,0,24890000.0
-Calvin Bassey,Fulham FC,Defender,26,0,0,24876666.666666668
-Illan Meslier,Arsenal FC,Goalkeeper,26,0,0,24803333.333333332
-Joel Latibeaudiere,Coventry City FC,Defender,26,0,0,24800000.0
-Richarlison,Tottenham Hotspur FC,Forward,29,0,0,24798666.666666668
-Chris Richards,Crystal Palace FC,Defender,26,0,0,24796666.666666668
-Ethan Ampadu,Leeds United FC,Midfielder,26,0,0,24791333.333333332
-Noah Okafor,Leeds United FC,Forward,26,1,0,24754666.666666668
-Femi Azeez,Brighton & Hove Albion FC,Midfielder,25,0,0,24729000.0
-Elliot Stroud,Hull City AFC,Forward,24,0,0,24671666.666666668
-James Hill,AFC Bournemouth,Defender,24,0,0,24645000.0
-Merlin Röhl,Everton FC,Midfielder,24,0,0,24633333.333333332
-Jack Clarke,Ipswich Town FC,Forward,25,1,0,24633333.333333332
-Melvin Bard,Leeds United FC,Defender,25,0,0,24592666.666666668
-Ibrahim Osman,Brighton & Hove Albion FC,Forward,21,0,0,24565333.333333332
-Luc De Fougerolles,Fulham FC,Defender,20,0,0,24379444.444444444
-Yoane Wissa,Newcastle United FC,Forward,30,1,1,24350000.0
-Evan Ferguson,Brighton & Hove Albion FC,Forward,21,0,0,24248666.666666668
-Ibrahim M'Baye,Aston Villa FC,Forward,18,0,0,24126666.666666664
-Kaye Furo,Brentford FC,Forward,19,0,0,24075333.333333332
-Dejan Kulusevski,Tottenham Hotspur FC,Midfielder,26,0,0,24070000.0
-Tarik Muharemović,Leeds United FC,Defender,23,0,0,23883333.333333332
-David Affengruber,Fulham FC,Defender,25,0,0,23730000.0
-Mohamed Ali Cho,Hull City AFC,Forward,22,0,0,23625222.22222222
-Michael Svoboda,Brighton & Hove Albion FC,Defender,27,0,0,23588333.333333332
-Ryan John Giles,Hull City AFC,Defender,26,0,0,23567333.333333332
-Pascal Groß,Brighton & Hove Albion FC,Midfielder,35,3,3,23483027.777777776
-Mamadou Sangare,Brentford FC,Midfielder,24,0,0,23478000.0
-Nikola Milenković,Nottingham Forest FC,Defender,28,0,0,23306666.666666668
-Lucas Herrington,Hull City AFC,Defender,19,0,0,23252777.777777776
-Lamare Bogarde,Aston Villa FC,Midfielder,22,0,0,23041666.666666668
-Max Aarons,AFC Bournemouth,Defender,26,0,0,22976666.666666668
-Abdoul Ouattara,Ipswich Town FC,Defender,20,0,0,22921666.666666668
-Harry Amass,Manchester United FC,Defender,19,0,0,22886666.666666668
-Darko Gyabi,Hull City AFC,Midfielder,22,0,0,22876666.666666668
-Kaine Kesler,Coventry City FC,Defender,23,0,0,22864000.0
-Caleb Yirenkyi,Coventry City FC,Midfielder,20,0,0,22783333.333333332
-Dominic Calvert-Lewin,Leeds United FC,Forward,29,2,1,22560000.0
-Pascal Struijk,Brighton & Hove Albion FC,Defender,27,0,0,22558333.333333332
-Mateo Fernandez,Leeds United FC,Forward,22,0,0,22515333.333333332
-Joe Gelhardt,Hull City AFC,Forward,24,0,0,22491666.666666668
-Hákon Rafn Valdimarsson,Brentford FC,Goalkeeper,24,0,0,22462333.333333332
-Chemsdine Talbi,Sunderland AFC,Forward,21,0,0,22416666.666666668
-Dayann Methalie,Sunderland AFC,Defender,20,0,0,22414444.444444444
-Lisandro Martínez,Manchester United FC,Defender,28,0,0,22406666.666666668
-Joelinton,Newcastle United FC,Midfielder,30,0,0,22400000.0
-Takehiro Tomiyasu,Crystal Palace FC,Defender,27,0,0,22318333.333333332
-Ryan Sessegnon,Fulham FC,Defender,26,0,0,22301333.333333332
-Veljko Milosavljević,AFC Bournemouth,Defender,19,0,0,22277777.777777776
-Mike Penders,Chelsea FC,Goalkeeper,21,0,0,22271444.444444444
-Jake O'Brien,Everton FC,Defender,25,0,0,22206666.666666668
-Vitalii Mykolenko,Everton FC,Defender,27,0,0,22200000.0
-James Garner,Everton FC,Midfielder,25,0,0,22161333.333333332
-Jack Rudoni,Coventry City FC,Midfielder,25,0,0,22153333.333333332
-Aaron Hickey,Brentford FC,Defender,24,0,0,22124666.666666668
-Hayden Hackney,Everton FC,Midfielder,24,0,0,22085000.0
-Caoimhin Kelleher,Brentford FC,Goalkeeper,27,0,0,22036666.666666668
-Axel Disasi,Crystal Palace FC,Defender,28,0,0,22000000.0
-Dean Henderson,Crystal Palace FC,Goalkeeper,29,0,0,21959666.666666668
-Alysson,Aston Villa FC,Forward,20,1,0,21952222.222222224
-Harry Wilson,Leeds United FC,Forward,29,0,0,21920000.0
-Wilson Odobert,Tottenham Hotspur FC,Forward,21,0,0,21884380.95238095
-Mathys Tel,Tottenham Hotspur FC,Forward,21,0,0,21884380.95238095
-Tyler Adams,AFC Bournemouth,Midfielder,27,0,0,21841666.666666668
-Aurele Amenda,Coventry City FC,Defender,23,0,0,21776666.666666668
-Jonah Kusi-Asare,Fulham FC,Forward,19,0,0,21659555.555555552
-Sindre Egeli,Ipswich Town FC,Forward,20,0,0,21623111.11111111
-Jocelin Bi,Sunderland AFC,Forward,21,0,0,21621666.666666668
-Kyran Thompson,Newcastle United FC,Unknown,17,0,0,21620666.666666668
-Michael Mills,Newcastle United FC,Unknown,17,0,0,21620666.666666668
-Mason Miley,Newcastle United FC,Unknown,17,0,0,21620666.666666668
-Hugo Larsson,Fulham FC,Midfielder,22,0,0,21585000.0
-Sidiki Cherif,Coventry City FC,Forward,19,0,0,21582111.11111111
-David Brooks,AFC Bournemouth,Forward,29,0,0,21560000.0
-James McAtee,Nottingham Forest FC,Midfielder,23,0,0,21521666.666666668
-Wilson Isidor,Sunderland AFC,Forward,26,1,0,21518333.333333332
-Abdul Issahaku,Ipswich Town FC,Forward,22,0,0,21496666.666666668
-Brian Madjo,Aston Villa FC,Forward,17,0,0,21453333.33333333
-Chris Rigg,Sunderland AFC,Midfielder,19,0,0,21368333.333333332
-Juanlu,AFC Bournemouth,Defender,23,0,0,21365000.0
-Luke Woolfenden,Coventry City FC,Defender,27,0,0,21251333.333333332
-Tyler Fletcher,Manchester United FC,Midfielder,19,0,0,21236666.666666668
-Jack Fletcher,Manchester United FC,Midfielder,19,0,0,21236666.666666668
-Jaidon Anthony,Brentford FC,Forward,26,1,0,21218333.333333332
-Jay Dasilva,Coventry City FC,Defender,28,1,0,21163333.333333332
-Ewen Jaouen,Newcastle United FC,Goalkeeper,20,0,0,21124666.666666668
-Trai Hume,Sunderland AFC,Defender,24,0,0,21118333.333333332
-Ainsley Maitland-Niles,Everton FC,Defender,29,1,0,21118333.333333332
-Stefanos Tzimas,Brighton & Hove Albion FC,Forward,20,0,0,21105333.333333332
-Shea Lacey,Manchester United FC,Forward,19,0,0,21006666.666666668
-Kaoru Mitoma,Brighton & Hove Albion FC,Forward,29,0,0,21006666.666666668
-Dwight McNeil,Crystal Palace FC,Forward,26,0,0,20983333.333333332
-Josh Eccles,Coventry City FC,Midfielder,26,0,0,20965000.0
-Exequiel Palacios,Ipswich Town FC,Midfielder,27,0,0,20931666.666666668
-Sean Steur,Newcastle United FC,Midfielder,18,0,0,20931111.11111111
-Óscar Mingueza,Crystal Palace FC,Defender,27,0,0,20918333.333333332
-Ellis Simms,Coventry City FC,Forward,25,0,0,20712888.88888889
-Younes Ibrahim,Brighton & Hove Albion FC,Unknown,18,0,0,20694444.444444444
-Aji Alese,Sunderland AFC,Defender,25,0,0,20636666.666666668
-Zadok Yohanna,Brighton & Hove Albion FC,Forward,19,0,0,20583111.11111111
-Emile Smith Rowe,Fulham FC,Midfielder,26,0,0,20550000.0
-Jacob Greaves,Ipswich Town FC,Defender,26,0,0,20503000.0
-George Hemmings,Aston Villa FC,Forward,19,0,0,20398888.888888888
-Tosin Adarabioyo,Tottenham Hotspur FC,Defender,29,0,0,20385000.0
-Jean Bahoya,Leeds United FC,Forward,21,0,0,20333333.33333333
-Antoni Milambo,Brentford FC,Midfielder,21,0,0,20291333.333333332
-Jayden Bogle,Leeds United FC,Defender,26,2,0,20256666.666666668
-Noah Sadiki,Sunderland AFC,Midfielder,21,0,0,20178333.333333332
-Marcos Senesi,Tottenham Hotspur FC,Defender,29,0,0,20128333.333333332
-Noussair Mazraoui,Manchester United FC,Defender,28,0,0,20113333.333333332
-Jules Ahoka,Sunderland AFC,Midfielder,20,0,0,20066666.666666668
-Rodrigo Bentancur,Tottenham Hotspur FC,Midfielder,29,0,0,20061666.666666668
-Zion Suzuki,Aston Villa FC,Goalkeeper,24,0,0,20036666.666666668
-Victor Torp,Coventry City FC,Midfielder,27,0,0,20030000.0
-James Maddison,Tottenham Hotspur FC,Midfielder,29,0,0,19975000.0
-Marcus Rashford,Manchester United FC,Forward,28,0,0,19954666.666666668
-Julio Enciso,Ipswich Town FC,Midfielder,22,0,0,19943333.333333332
-Tim Iroegbunam,Hull City AFC,Midfielder,24,0,0,19893333.333333332
-Vitaly Janelt,Brentford FC,Midfielder,28,2,0,19721666.666666668
-Gabriel Gudmundsson,Leeds United FC,Defender,27,0,0,19720000.0
-Trey Nyoni,Liverpool FC,Midfielder,19,0,0,19616333.333333332
-Steven Benda,Nottingham Forest FC,Goalkeeper,27,0,0,19544666.666666668
-Manuel Angel,Fulham FC,Midfielder,22,0,0,19541666.666666668
-Carlos Alcaraz,Everton FC,Midfielder,23,0,0,19506666.666666668
-Oliver McBurnie,Hull City AFC,Forward,30,0,0,19505000.0
-Daniel Ballard,Sunderland AFC,Defender,27,0,0,19355000.0
-Shea Charles,Fulham FC,Midfielder,22,0,0,19316666.666666668
-Nicolás Domínguez,Nottingham Forest FC,Midfielder,28,0,0,19277000.0
-David Akintola,Hull City AFC,Forward,30,0,0,19251666.666666668
-Daniel Muñoz,Nottingham Forest FC,Defender,30,0,0,19167333.333333332
-Pau Torres,Aston Villa FC,Defender,29,0,0,19143333.333333332
-Ben Chilwell,Crystal Palace FC,Defender,29,1,0,19139000.0
-Alex Iwobi,Fulham FC,Forward,30,0,0,19106666.666666668
-Robinio Vaz,Hull City AFC,Forward,19,0,0,19053333.333333332
-John,Nottingham Forest FC,Goalkeeper,30,0,0,19048777.77777778
-Jens Hjertö-Dahl,Hull City AFC,Midfielder,20,0,0,18947777.777777776
-Brandon Thomas-Asante,Coventry City FC,Forward,27,0,0,18846555.555555556
-Joe Willock,Newcastle United FC,Midfielder,27,2,0,18800000.0
-David Raya,Arsenal FC,Goalkeeper,31,0,0,18647857.142857146
-Kepa Arrizabalaga,Arsenal FC,Goalkeeper,31,0,0,18647857.142857146
-Alex Toth,AFC Bournemouth,Midfielder,20,0,0,18646666.666666668
-Malick Yalcouyé,Brighton & Hove Albion FC,Midfielder,20,2,0,18646666.666666668
-Emiliano Buendía,Aston Villa FC,Midfielder,29,1,0,18570000.0
-Tyler Dibling,Everton FC,Forward,20,0,0,18501666.666666668
-Mark Travers,Everton FC,Goalkeeper,27,0,0,18490000.0
-Abdülkadir Ömür,Hull City AFC,Midfielder,27,0,0,18430000.0
-Ola Aina,Nottingham Forest FC,Defender,29,0,0,18430000.0
-Cheick Doucouré,Crystal Palace FC,Midfielder,26,0,0,18380000.0
-Fabio Carvalho,Brentford FC,Midfielder,24,1,0,18358333.333333332
-Matty Cash,Aston Villa FC,Defender,29,0,0,18336666.666666668
-Ibrahim Sangaré,Nottingham Forest FC,Midfielder,28,0,0,18321666.666666668
-Julio Soler,AFC Bournemouth,Defender,21,0,0,18153333.333333332
-Brenden Aaronson,Leeds United FC,Midfielder,25,0,0,18043333.333333332
-Jaden Philogene-Bidace,Ipswich Town FC,Forward,24,0,0,17992666.666666668
-Timothy Castagne,Fulham FC,Defender,30,0,0,17764666.666666668
-Kristoffer Ajer,Brentford FC,Defender,28,0,0,17721333.333333332
-Gabriel Slonina,Chelsea FC,Goalkeeper,22,0,0,17565666.666666668
-Rio Ngumoha,Liverpool FC,Forward,18,0,0,17490000.0
-Federico Chiesa,Liverpool FC,Forward,28,0,0,17378333.333333332
-Sander Berge,Fulham FC,Midfielder,28,0,0,17363333.333333332
-Chuba Akpom,Ipswich Town FC,Forward,30,1,0,17244000.0
-Lucas Gourna-Douath,Hull City AFC,Midfielder,23,0,0,17221666.666666668
-Michele Di Gregorio,AFC Bournemouth,Goalkeeper,29,0,0,17196666.666666668
-Sorba Thomas,Hull City AFC,Forward,27,0,0,17165000.0
-Florentino,Ipswich Town FC,Midfielder,27,0,0,17066666.666666668
-Aaron Wan-Bissaka,Aston Villa FC,Defender,28,0,0,17040000.0
-Dara O'Shea,Ipswich Town FC,Defender,27,0,0,16906666.666666668
-Đorđe Petrović,AFC Bournemouth,Goalkeeper,26,0,0,16876666.666666668
-Olivier Boscagli,Brighton & Hove Albion FC,Defender,28,0,0,16750000.0
-Joe Rodon,Leeds United FC,Defender,28,0,0,16653333.333333334
-Ephron Mason-Clark,Coventry City FC,Forward,27,0,0,16556888.88888889
-Antonín Kinský,Tottenham Hotspur FC,Goalkeeper,23,0,0,16526000.0
-Ilia Gruev,Leeds United FC,Midfielder,26,0,0,16511333.333333334
-Xaver Schlager,Nottingham Forest FC,Midfielder,28,0,0,16473666.666666666
-Daichi Kamada,Crystal Palace FC,Midfielder,30,0,0,16046666.666666666
-Christos Mouzakitis,Hull City AFC,Midfielder,19,0,0,16041666.666666666
-Nordi Mukiele,Sunderland AFC,Defender,28,0,0,15990000.0
-Kevin Danso,Sunderland AFC,Defender,28,0,0,15890000.0
-Tammy Abraham,Aston Villa FC,Forward,28,0,0,15861333.333333334
-Loum Tchaouna,Coventry City FC,Forward,23,0,0,15831333.333333334
-Nico Elvedi,Leeds United FC,Defender,29,0,0,15525000.0
-Lukas Nmecha,Leeds United FC,Forward,27,0,0,15430000.0
-Antonee Robinson,Fulham FC,Defender,29,0,0,15420000.0
-Alex Borto,Fulham FC,Goalkeeper,22,0,0,15347000.0
-Jack Grealish,Everton FC,Forward,31,0,0,15331750.0
-Jorge Cuenca,Fulham FC,Defender,26,0,0,15263333.333333334
-Mateo Kovačić,Manchester City FC,Midfielder,32,0,0,15194888.888888886
-Anis Mehmeti,Ipswich Town FC,Midfielder,25,0,0,15116666.666666666
-Konstantinos Tzolakis,Hull City AFC,Goalkeeper,23,0,0,15082333.333333334
-Carl Rushworth,Coventry City FC,Goalkeeper,25,0,0,14964666.666666666
-Thomas McGill,Brighton & Hove Albion FC,Goalkeeper,26,0,0,14796000.0
-Haji Wright,Coventry City FC,Forward,28,0,0,14762222.22222222
-Marcelino Núñez,Ipswich Town FC,Midfielder,26,0,0,14720000.0
-Julian Araujo,AFC Bournemouth,Defender,25,0,0,14540000.0
-Regan Slater,Hull City AFC,Midfielder,27,0,0,14231666.666666666
-Rico Henry,Brentford FC,Defender,29,0,0,14200000.0
-Tatsuhiro Sakamoto,Coventry City FC,Forward,29,0,0,14143333.333333334
-Eddie Nketiah,Crystal Palace FC,Forward,27,0,0,14130000.0
-Robin Roefs,Sunderland AFC,Goalkeeper,23,0,0,14109000.0
-Harrison Armstrong,Everton FC,Midfielder,19,0,0,14086666.666666666
-Lewis Cook,AFC Bournemouth,Midfielder,29,0,0,13996666.666666666
-Kasey McAteer,Ipswich Town FC,Midfielder,24,0,0,13931666.666666666
-Frank Onyeka,Coventry City FC,Midfielder,28,0,0,13921666.666666666
-Taiwo Awoniyi,Coventry City FC,Forward,29,0,0,13846666.666666666
-Lewie Coyle,Hull City AFC,Defender,30,0,0,13820666.666666666
-Kjell Scherpen,Ipswich Town FC,Goalkeeper,26,0,0,13804000.0
-Ao Tanaka,Leeds United FC,Midfielder,28,0,0,13790000.0
-Omar Alderete,Sunderland AFC,Defender,29,0,0,13648333.333333334
-Kieran Dowell,Hull City AFC,Midfielder,28,0,0,13633333.333333334
-Joachim Andersen,Fulham FC,Defender,30,0,0,13561333.333333334
-Sean Longstaff,Leeds United FC,Midfielder,28,0,0,13545000.0
-Zian Flemming,Ipswich Town FC,Forward,28,1,0,13453333.333333334
-James Justin,Leeds United FC,Defender,28,0,0,13433333.333333334
-Melker Ellborg,Sunderland AFC,Goalkeeper,23,0,0,13325666.666666666
-Gustavo Hamer,Coventry City FC,Midfielder,29,0,0,13295000.0
-Mathias Jensen,Brentford FC,Midfielder,30,0,0,13231666.666666666
-Kostas Tsimikas,Liverpool FC,Defender,30,0,0,13140000.0
-Alex Palmer,Ipswich Town FC,Goalkeeper,30,0,0,12988777.777777778
-Christian Walton,Ipswich Town FC,Goalkeeper,30,0,0,12988777.777777778
-Romaine Mundle,Sunderland AFC,Forward,23,0,0,12968333.333333334
-Saša Lukić,Ipswich Town FC,Midfielder,30,0,0,12779000.0
-Daniel James,Leeds United FC,Forward,28,0,0,12776666.666666666
-Joe Gomez,Liverpool FC,Defender,29,0,0,12673333.333333334
-Daizen Maeda,Ipswich Town FC,Forward,28,0,0,12146666.666666666
-Ryan Yates,Nottingham Forest FC,Midfielder,28,0,0,11930000.0
-Kenny Tete,Fulham FC,Defender,30,0,0,11914666.666666666
-Thomas King,Everton FC,Goalkeeper,31,0,0,11764277.777777778
-Darnell Furlong,Ipswich Town FC,Defender,30,0,0,11657666.666666666
-Issa Diop,Ipswich Town FC,Defender,29,0,0,11576666.666666666
-Cédric Kipré,Ipswich Town FC,Defender,29,0,0,11363333.333333334
-Harvey Davies,Liverpool FC,Goalkeeper,23,0,0,11066000.0
-Azor Matusiwa,Ipswich Town FC,Midfielder,28,0,0,10868333.333333334
-John McGinn,Aston Villa FC,Midfielder,31,0,0,10691666.666666666
-Michael Zetterer,Leeds United FC,Goalkeeper,31,0,0,9945115.07936508
-Virgil van Dijk,Liverpool FC,Defender,35,0,0,9941111.11111111
-Jordan Pickford,Everton FC,Goalkeeper,32,0,0,9763000.0
-Emiliano Martínez,Chelsea FC,Goalkeeper,34,0,0,9124388.888888888
-Ryan Christie,AFC Bournemouth,Midfielder,31,0,0,8542333.333333334
-James Trafford,Leeds United FC,Goalkeeper,23,0,0,8531666.666666666
-Josh Dasilva,Brentford FC,Midfielder,27,0,0,8428000.0
-Géronimo Rulli,Manchester City FC,Goalkeeper,34,0,0,8375611.111111112
-Jacob Murphy,Newcastle United FC,Forward,31,0,0,8067847.222222222
-Freddie Woodman,Liverpool FC,Goalkeeper,29,0,0,7903666.666666667
-Brandon Austin,Tottenham Hotspur FC,Goalkeeper,27,0,0,7874000.0
-Abdoullah Ba,Sunderland AFC,Midfielder,23,0,0,7668333.333333333
-Luke Shaw,Manchester United FC,Defender,31,0,0,7549333.333333333
-Jack Taylor,Ipswich Town FC,Midfielder,28,0,0,7266666.666666667
-Marcus Bettinelli,Manchester City FC,Goalkeeper,34,0,0,7178833.333333333
-Andrew Robertson,Tottenham Hotspur FC,Defender,32,0,0,7147333.333333333
-James Tarkowski,Everton FC,Defender,33,1,1,7098333.333333333
-Harry Maguire,Manchester United FC,Defender,33,0,0,6851444.444444445
-Christian Nørgaard,Everton FC,Midfielder,32,0,0,6799444.444444444
-Ellery Balcombe,Brentford FC,Goalkeeper,26,0,0,6560333.333333333
-Leon Goretzka,Aston Villa FC,Midfielder,31,0,0,6263333.333333333
-Alisson Becker,Liverpool FC,Goalkeeper,33,0,0,6189042.857142857
-Granit Xhaka,Sunderland AFC,Midfielder,33,0,0,6115833.333333333
-Wataru Endō,Liverpool FC,Midfielder,33,0,0,5951587.301587302
-Jefferson Lerma,Crystal Palace FC,Midfielder,31,0,0,5893333.333333333
-Alex Cairns,Leeds United FC,Goalkeeper,33,0,0,5768126.19047619
-Callum Wilson,Brentford FC,Forward,34,0,0,5766416.666666667
-Alan Browne,Sunderland AFC,Midfielder,31,0,0,5248833.333333333
-Chris Wood,Nottingham Forest FC,Forward,34,0,0,5220333.333333333
-Danny Welbeck,Chelsea FC,Forward,35,0,0,5083416.666666667
-Walter Benítez,Crystal Palace FC,Goalkeeper,33,0,0,5005166.666666667
-Will Hughes,Crystal Palace FC,Midfielder,31,0,0,4906000.0
-Michael Keane,Everton FC,Defender,33,0,0,4699333.333333333
-Ross Barkley,Aston Villa FC,Midfielder,32,0,0,4376533.333333333
-Hidemasa Morita,Hull City AFC,Midfielder,31,0,0,4335333.333333333
-Matt Grimes,Coventry City FC,Midfielder,31,0,0,4322666.666666667
-Fabian Schär,Newcastle United FC,Defender,34,0,0,4190472.2222222215
-Lewis Dunk,Brighton & Hove Albion FC,Defender,34,1,0,3961411.1111111115
-Jordan Henderson,Chelsea FC,Midfielder,36,0,0,3864000.0
-Harrison Reed,Fulham FC,Midfielder,31,0,0,3680666.6666666665
-Dillon Phillips,Hull City AFC,Goalkeeper,31,0,0,3546638.888888889
-Victor Nilsson-Lindelöf,Aston Villa FC,Defender,32,0,0,3497000.0
-Ben Davies,Tottenham Hotspur FC,Defender,33,0,0,3440583.3333333335
-Dan Burn,Newcastle United FC,Defender,34,0,0,3432555.555555555
-Matty Crooks,Hull City AFC,Midfielder,32,0,0,3309666.6666666665
-Jason Steele,Brighton & Hove Albion FC,Goalkeeper,36,0,0,3233022.222222223
-Matz Sels,Nottingham Forest FC,Goalkeeper,34,0,0,3160055.555555556
-Ethan Pinnock,Coventry City FC,Defender,33,0,0,3159000.0
-Tyrone Mings,Aston Villa FC,Defender,33,0,0,3096866.6666666665
-Reinildo,Sunderland AFC,Defender,32,0,0,3090500.0
-Marco Bizot,Aston Villa FC,Goalkeeper,35,0,0,3017583.3333333335
-Matt Targett,Hull City AFC,Defender,31,0,0,2908000.0
-Thomas Meunier,Sunderland AFC,Defender,35,0,0,2684833.3333333335
-Luke O'Nien,Sunderland AFC,Defender,31,0,0,2664333.3333333335
-Jake Bidwell,Coventry City FC,Defender,33,0,0,2651000.0
-Nick Pope,Newcastle United FC,Goalkeeper,34,0,0,2516758.3333333335
-Mark Gillespie,Newcastle United FC,Goalkeeper,34,0,0,2516758.3333333335
-Tom Cairney,Fulham FC,Midfielder,35,0,0,2486194.444444444
-Paddy McNair,Hull City AFC,Defender,31,0,0,2436333.3333333335
-Adam Smith,AFC Bournemouth,Defender,35,0,0,2362883.3333333335
-Semi Ajayi,Hull City AFC,Defender,32,1,0,2003333.3333333333
-Jack Butland,Hull City AFC,Goalkeeper,33,0,0,1980500.0
-Bernd Leno,Fulham FC,Goalkeeper,34,0,0,1806677.7777777775
-John Egan,Hull City AFC,Defender,33,0,0,1731000.0
-Ben Wilson,Coventry City FC,Goalkeeper,34,0,0,1546477.7777777778
-Daniel Bentley,Coventry City FC,Goalkeeper,33,0,0,1524499.9999999998
-Remi Matthews,Crystal Palace FC,Goalkeeper,32,0,0,1471861.111111111
-Karl Darlow,Manchester United FC,Goalkeeper,35,0,0,1281250.0
-Benjamin Lecomte,Fulham FC,Goalkeeper,35,0,0,935750.0
-Tom Heaton,Manchester United FC,Goalkeeper,40,0,0,928666.6666666666
-Martin Dúbravka,Tottenham Hotspur FC,Goalkeeper,37,0,0,819750.0
-David Button,Ipswich Town FC,Goalkeeper,37,0,0,695925.0
-Fraser Forster,AFC Bournemouth,Goalkeeper,38,0,0,422944.44444444444
-Simon Moore,Sunderland AFC,Goalkeeper,36,0,0,407833.3333333333
+﻿player_name,team,position_group,age,goals,assists,image_url,predicted_market_value_eur
+Erling Haaland,Manchester City FC,Forward,26,5,0,,165300000.0
+Declan Rice,Arsenal FC,Midfielder,27,0,0,,102005000.0
+Bukayo Saka,Arsenal FC,Forward,25,3,0,,92100000.0
+Cole Palmer,Chelsea FC,Midfielder,24,2,2,,87500000.0
+Myles Lewis-Skelly,Arsenal FC,Midfielder,20,0,0,,86523333.33333333
+Rayan Cherki,Manchester City FC,Midfielder,23,3,2,,85606666.66666667
+Enzo Fernández,Manchester City FC,Midfielder,25,1,0,,82950000.0
+Morgan Rogers,Chelsea FC,Midfielder,24,3,1,,81713333.33333333
+Martín Zubimendi,Arsenal FC,Midfielder,27,0,0,,79883333.33333333
+Martin Ødegaard,Arsenal FC,Midfielder,27,2,0,,79571666.66666667
+Phil Foden,Manchester City FC,Midfielder,26,0,0,,79216666.66666667
+Moisés Caicedo,Chelsea FC,Midfielder,24,0,0,,78710000.0
+Elliot Anderson,Manchester City FC,Midfielder,23,0,0,,78633333.33333333
+João Pedro,Chelsea FC,Forward,25,3,3,,76606666.66666667
+Antoine Semenyo,Manchester City FC,Forward,26,2,3,,75200000.0
+Eberechi Eze,Arsenal FC,Midfielder,28,0,0,,73806666.66666667
+Florian Wirtz,Liverpool FC,Midfielder,23,0,0,,70805000.0
+Joško Gvardiol,Manchester City FC,Defender,24,1,2,,68893333.33333333
+Bruno Guimarães,Arsenal FC,Midfielder,28,1,0,,68626666.66666667
+Alexander Isak,Liverpool FC,Forward,27,4,0,,68071666.66666667
+Ray Paez,Chelsea FC,Midfielder,19,0,0,,67322777.77777779
+Jeremy Doku,Manchester City FC,Forward,24,0,0,,67233333.33333333
+Marc Guéhi,Manchester City FC,Defender,26,1,1,,66883333.333333336
+Morgan Gibbs-White,Nottingham Forest FC,Midfielder,26,1,2,,62743333.333333336
+Jurrien Timber,Arsenal FC,Defender,25,0,0,,62563333.333333336
+Nilson Angulo,Sunderland AFC,Forward,23,1,1,,62560000.0
+Ayyoub Bouaddi,Manchester City FC,Midfielder,18,0,0,,61343333.333333336
+Benjamin Šeško,Manchester United FC,Forward,23,1,0,,61166666.666666664
+Kai Havertz,Arsenal FC,Forward,27,2,0,,60621666.666666664
+Matheus Cunha,Manchester United FC,Forward,27,1,1,,60243333.333333336
+Sandro Tonali,Tottenham Hotspur FC,Midfielder,26,0,0,,59623333.333333336
+Viktor Gyökeres,Arsenal FC,Forward,28,0,0,,58946666.666666664
+Iliman Ndiaye,Manchester City FC,Forward,26,0,0,,57426666.666666664
+Rayan Aït Nouri,Manchester City FC,Defender,25,0,0,,57200000.0
+Allan,Manchester City FC,Forward,22,0,0,,56983333.333333336
+Noni Madueke,Arsenal FC,Forward,24,0,0,,56786666.666666664
+Christos Tzolis,Arsenal FC,Forward,24,0,0,,56006666.666666664
+Emersonn,Ipswich Town FC,Forward,22,2,1,,55518333.333333336
+Cody Gakpo,Liverpool FC,Forward,27,1,3,,55308333.333333336
+Riccardo Calafiori,Arsenal FC,Defender,24,0,0,,54380000.0
+Abdukodir Khusanov,Manchester City FC,Defender,22,0,0,,54183333.333333336
+Kobbie Mainoo,Manchester United FC,Midfielder,21,0,0,,54166666.666666664
+Josh Wilson-Esbrand,Manchester City FC,Defender,23,0,0,,53816666.666666664
+Juan Angulo,Sunderland AFC,Forward,18,0,0,,53770000.0
+Adam Wharton,Crystal Palace FC,Midfielder,22,0,0,,53128333.333333336
+Óscar Zambrano,Hull City AFC,Midfielder,22,0,0,,52995000.0
+Piero Hincapié,Arsenal FC,Defender,24,0,0,,52930000.0
+Nico O'Reilly,Manchester City FC,Defender,21,0,0,,52666666.666666664
+Rico Lewis,Manchester City FC,Defender,21,0,0,,52666666.666666664
+Cristhian Mosquera,Arsenal FC,Defender,22,0,0,,52561666.666666664
+Reece James,Chelsea FC,Defender,26,0,0,,52536333.333333336
+Pedro Neto,Chelsea FC,Forward,26,1,0,,52473333.333333336
+Alexis Mac Allister,Liverpool FC,Midfielder,27,0,0,,52168333.333333336
+Enzo Le Fée,Sunderland AFC,Midfielder,26,1,1,,51755000.0
+Vitor Reis,Manchester City FC,Defender,20,0,0,,51333333.333333336
+Destiny Udogie,Tottenham Hotspur FC,Defender,23,0,0,,50866000.0
+Gabriel Magalhães,Arsenal FC,Defender,28,0,0,,50583333.333333336
+Carlos Baleba,Manchester United FC,Midfielder,22,0,0,,50360000.0
+Mohamed Belloumi,Hull City AFC,Forward,24,2,2,,49983333.333333336
+Matheus Nunes,Manchester City FC,Defender,28,0,0,,49313333.333333336
+Ben White,Arsenal FC,Defender,28,0,0,,47373333.333333336
+Ezri Konsa,Arsenal FC,Defender,28,0,0,,47373333.333333336
+Luka Vušković,Brighton & Hove Albion FC,Defender,19,1,0,,47006666.666666664
+Rayan,AFC Bournemouth,Forward,20,0,0,,46325333.333333336
+Johan Manzambi,Aston Villa FC,Midfielder,20,1,1,,46157222.22222222
+Dominik Szoboszlai,Liverpool FC,Midfielder,25,1,0,,46138333.333333336
+Leif Davis,Ipswich Town FC,Defender,26,2,1,,46050000.0
+Levi Colwill,Chelsea FC,Defender,23,0,0,,45881333.333333336
+Andrey Santos,Manchester United FC,Midfielder,22,0,0,,44686666.666666664
+Patrick Dorgu,Manchester United FC,Forward,21,0,0,,43978888.88888889
+Gianluigi Donnarumma,Manchester City FC,Goalkeeper,27,0,0,,43539444.44444444
+Ryan McAidoo,Manchester City FC,Forward,18,0,0,,43403333.333333336
+Leny Yoro,Manchester United FC,Defender,20,0,0,,43035555.55555556
+Anan Khalaili,Crystal Palace FC,Midfielder,22,1,0,,42738333.333333336
+Murillo,Nottingham Forest FC,Defender,24,0,0,,41533333.333333336
+Malick Thiaw,Newcastle United FC,Defender,25,0,0,,41496666.666666664
+Josh Acheampong,Chelsea FC,Defender,20,0,0,,41278000.0
+Lewis Hall,Newcastle United FC,Defender,1,1,1,,40993333.333333336
+Max Dowman,Arsenal FC,Forward,16,0,0,,40816666.666666664
+Alex Scott,AFC Bournemouth,Midfielder,23,1,0,,40600000.0
+Jamie Bynoe-Gittens,Chelsea FC,Forward,22,0,0,,40562666.666666664
+Maxence Lacroix,Chelsea FC,Defender,26,0,0,,40160000.0
+Omar Marmoush,Tottenham Hotspur FC,Forward,27,0,0,,40080333.333333336
+Jair Paula,Nottingham Forest FC,Defender,21,0,0,,40057777.777777776
+Kevin Schade,Brentford FC,Forward,24,3,0,,40020000.0
+Mateus Fernandes,Tottenham Hotspur FC,Midfielder,22,0,0,,39945333.333333336
+Valentin Barco,Chelsea FC,Midfielder,22,0,0,,39919000.0
+Amad Diallo,Manchester United FC,Forward,24,0,0,,39743333.333333336
+Marco Palestra,Chelsea FC,Defender,21,0,0,,39703333.333333336
+William Saliba,Arsenal FC,Defender,25,0,0,,39566666.666666664
+Matheus Franca,Crystal Palace FC,Forward,22,0,0,,39354444.44444444
+Jan Paul van Hecke,Tottenham Hotspur FC,Defender,26,1,0,,39237333.333333336
+Ryan Gravenberch,Liverpool FC,Midfielder,24,0,0,,38946666.666666664
+Bryan Mbeumo,Manchester United FC,Forward,27,2,0,,38773333.333333336
+Amadou Onana,Aston Villa FC,Midfielder,25,0,0,,38578333.333333336
+Víctor Muñoz,Liverpool FC,Forward,23,1,0,,38343333.333333336
+Michael Kayode,Brentford FC,Defender,22,1,0,,38296666.666666664
+Luca Netz,Nottingham Forest FC,Defender,23,0,0,,38243333.333333336
+Rúben Dias,Manchester City FC,Defender,29,0,0,,37735000.0
+Jaka Bijol,Leeds United FC,Defender,27,0,0,,37571666.666666664
+Igor Jesus,Nottingham Forest FC,Forward,25,1,0,,37106666.666666664
+Keane Lewis-Potter,Brentford FC,Midfielder,25,1,1,,36792666.666666664
+Evanilson,AFC Bournemouth,Forward,26,0,0,,36650000.0
+Ayden Heaven,Manchester United FC,Defender,20,0,0,,36533333.333333336
+Romeo Lavia,Chelsea FC,Midfielder,22,1,0,,36436666.666666664
+Emanuel Emegha,Chelsea FC,Forward,23,0,0,,36370000.0
+Wesley Fofana,Chelsea FC,Defender,25,0,0,,36350000.0
+Matteo Ruggeri,Aston Villa FC,Defender,24,0,0,,36326666.666666664
+Sávio,Tottenham Hotspur FC,Forward,22,0,0,,36243047.61904762
+Aaron Anselmino,Chelsea FC,Defender,21,0,0,,36223333.333333336
+Jorrel Hato,Chelsea FC,Defender,20,0,0,,35990000.0
+Nico Gonzalez,Newcastle United FC,Midfielder,24,0,0,,35733333.333333336
+Malo Gusto,Chelsea FC,Defender,23,0,0,,35450000.0
+Darío Osorio,Crystal Palace FC,Forward,22,0,0,,35201111.111111104
+Amar Dedić,Newcastle United FC,Defender,24,0,0,,35196666.666666664
+Jørgen Strand Larsen,Crystal Palace FC,Forward,26,1,0,,34986666.666666664
+Honest Ahanor,Crystal Palace FC,Defender,18,0,0,,34971666.666666664
+Jeremie Frimpong,Liverpool FC,Defender,25,0,0,,34853333.333333336
+Estevao,Chelsea FC,Forward,19,0,0,,34711111.111111104
+Ilyas Ansah,Hull City AFC,Forward,21,0,0,,34376999.99999999
+Thiago,Brentford FC,Forward,25,1,0,,34150000.0
+Hugo Ekitike,Liverpool FC,Forward,24,0,0,,33994333.333333336
+Bradley Barcola,Liverpool FC,Forward,24,0,0,,33994333.333333336
+Milos Kerkez,Liverpool FC,Defender,22,0,0,,33791666.666666664
+Gustavo Gomes,Brentford FC,Forward,20,0,0,,33763333.333333336
+João Gomes,Aston Villa FC,Midfielder,25,0,0,,33761666.666666664
+Harvey Barnes,Newcastle United FC,Forward,28,1,2,,33610000.0
+Mickey van de Ven,Tottenham Hotspur FC,Defender,25,0,0,,33394444.44444444
+Mahdi Nicoll-Jazuli,Chelsea FC,Unknown,16,0,0,,33222666.666666668
+Jacob Ramsey,Newcastle United FC,Midfielder,25,1,0,,33128333.333333332
+Valentino Livramento,Newcastle United FC,Defender,23,0,0,,33054000.0
+Maxim De Cuyper,Brighton & Hove Albion FC,Defender,25,1,2,,32890000.0
+Yasin Ayari,Brighton & Hove Albion FC,Midfielder,22,1,1,,32758333.333333332
+Boubacar Kamara,Aston Villa FC,Midfielder,26,0,0,,32723333.333333332
+Sven Botman,Newcastle United FC,Defender,26,0,0,,32686666.666666668
+Dermot Mee,Manchester United FC,Goalkeeper,23,0,0,,32568333.333333332
+Dango Ouattara,Brentford FC,Forward,24,0,0,,32331666.666666668
+Ronald Araújo,Liverpool FC,Defender,27,0,0,,32235000.0
+Conor Gallagher,Tottenham Hotspur FC,Midfielder,26,1,0,,32218333.333333332
+Jesurun Rak-Sakyi,Crystal Palace FC,Forward,23,0,0,,32185000.0
+Archie Gray,Tottenham Hotspur FC,Defender,20,0,0,,31947333.333333332
+Dan Ndoye,Nottingham Forest FC,Forward,25,1,0,,31853333.333333332
+Ferdi Kadıoğlu,Brighton & Hove Albion FC,Defender,26,0,0,,31813333.333333332
+Jarrad Branthwaite,Everton FC,Defender,24,0,0,,31788333.333333332
+Ismaïla Sarr,Crystal Palace FC,Forward,28,0,0,,31446666.666666668
+Anthony Elanga,Newcastle United FC,Forward,24,2,0,,31260000.0
+Pedro Porro,Tottenham Hotspur FC,Defender,27,0,0,,31208777.77777778
+Charalampos Kostoulas,Brighton & Hove Albion FC,Forward,19,2,1,,30943333.333333332
+Jaydee Canvot,Crystal Palace FC,Defender,20,0,0,,30913888.888888888
+Conor Bradley,Liverpool FC,Defender,23,0,0,,30886666.666666668
+Lucas Bergvall,Tottenham Hotspur FC,Midfielder,20,0,0,,30866666.66666666
+Brian Brobbey,Sunderland AFC,Forward,24,3,0,,30838333.333333332
+Geovany Quenda,Chelsea FC,Forward,19,0,0,,30807777.777777772
+Nicolas Jackson,Aston Villa FC,Forward,25,1,0,,30493333.333333332
+Senne Lammens,Manchester United FC,Goalkeeper,24,0,0,,30470333.333333332
+Ben Winterburn,AFC Bournemouth,Midfielder,22,0,0,,30461666.666666668
+Matias Fernandez-Pardo,Newcastle United FC,Forward,21,0,0,,30327555.555555552
+Kevin Santos,Fulham FC,Forward,23,0,0,,30121666.666666668
+Chema Andrés,Brighton & Hove Albion FC,Midfielder,21,1,1,,30052222.222222228
+Bart Verbruggen,Brighton & Hove Albion FC,Goalkeeper,24,0,0,,29862666.666666668
+Ian Maatsen,Aston Villa FC,Defender,24,0,0,,29840000.0
+Diogo Dalot,Manchester United FC,Defender,27,0,0,,29763333.333333332
+Mikel Merino,Arsenal FC,Midfielder,30,0,0,,29728333.333333332
+Nobel Mendy,Hull City AFC,Defender,22,1,0,,29702222.22222222
+William Osula,Newcastle United FC,Forward,23,0,0,,29633333.333333332
+Mohammed Kudus,Tottenham Hotspur FC,Forward,26,0,0,,29469000.0
+Mykhailo Mudryk,Tottenham Hotspur FC,Forward,25,0,0,,29466777.77777778
+Chadi Riad,Crystal Palace FC,Defender,23,0,0,,29463333.333333332
+Jeremy Jacquet,Liverpool FC,Defender,21,0,0,,29462111.11111111
+Kiernan Dewsbury Hall,Everton FC,Midfielder,28,1,0,,29435000.0
+Habib Diarra,Sunderland AFC,Midfielder,22,0,0,,29333333.333333332
+Georginio Rutter,Brighton & Hove Albion FC,Forward,24,0,0,,29190000.0
+Jaouen Hadjam,Brighton & Hove Albion FC,Defender,23,0,0,,29075000.0
+Manuel Ugarte,Manchester United FC,Midfielder,25,0,0,,29053333.333333332
+Charlie Hughes,Hull City AFC,Defender,22,0,0,,28944444.44444444
+Brooke Norton-Cuffy,Hull City AFC,Defender,22,0,0,,28944444.44444444
+Teddy Sharman-Lowe,Chelsea FC,Goalkeeper,23,0,0,,28909000.0
+Matthijs de Ligt,Manchester United FC,Defender,27,0,0,,28773333.333333332
+Costinha,Brighton & Hove Albion FC,Defender,26,0,0,,28743333.333333332
+Bazoumana Touré,Newcastle United FC,Forward,20,1,0,,28715555.55555556
+Yegor Yarmolyuk,Brentford FC,Midfielder,22,0,0,,28713000.0
+Taylor Harwood-Bellis,Aston Villa FC,Defender,24,0,0,,28641666.666666668
+Thierno Barry,Everton FC,Forward,26,2,0,,28563333.333333332
+Promise Akinpelu,Brighton & Hove Albion FC,Forward,25,0,0,,28471666.666666668
+Sepp van den Berg,Brentford FC,Defender,24,0,0,,28454666.666666668
+Modou Keba Cisse,Aston Villa FC,Defender,21,0,0,,28444444.444444444
+Neco Williams,Nottingham Forest FC,Defender,25,0,0,,28370000.0
+Matt O'Riley,Brighton & Hove Albion FC,Midfielder,25,0,0,,28340000.0
+Yankubah Minteh,Brighton & Hove Albion FC,Forward,22,0,0,,28313333.333333332
+Marcus Tavernier,AFC Bournemouth,Midfielder,27,3,0,,28036666.666666668
+Giovanni Leoni,Liverpool FC,Defender,19,0,0,,27955000.0
+Quinten Timber,Crystal Palace FC,Midfielder,25,0,0,,27911666.666666668
+Rodrigo Muniz,Fulham FC,Forward,25,0,0,,27880000.0
+Liam Delap,Nottingham Forest FC,Forward,23,1,0,,27768333.333333332
+Nathan Collins,Brentford FC,Defender,25,0,0,,27606666.666666668
+Arnaud Kalimuendo,Nottingham Forest FC,Forward,24,0,0,,27575777.777777776
+Adrien Truffert,AFC Bournemouth,Defender,24,0,0,,27574333.333333332
+Alvaro Rodriguez,AFC Bournemouth,Forward,22,0,0,,27542000.0
+Eliot Matazo,Hull City AFC,Midfielder,24,0,0,,27518333.333333332
+Benjamin Fredrick,Brentford FC,Defender,21,0,0,,27483555.555555556
+Eli Kroupi,AFC Bournemouth,Forward,20,0,0,,27443444.444444444
+Ji-soo Kim,Brentford FC,Defender,21,0,0,,27440222.222222224
+Brennan Johnson,Everton FC,Forward,25,0,0,,27423333.333333332
+Callum Hudson-Odoi,Nottingham Forest FC,Forward,25,0,0,,27416666.666666668
+Antonio Silva,AFC Bournemouth,Defender,22,0,0,,27383333.333333332
+César Palacios,Fulham FC,Midfielder,21,1,0,,27377777.77777778
+Gonzalo García,Fulham FC,Forward,22,1,0,,27336666.666666668
+Daniel Jebbison,AFC Bournemouth,Forward,23,0,0,,27328333.333333332
+Xavi Simons,Tottenham Hotspur FC,Midfielder,23,0,0,,27264666.666666668
+Bruno Fernandes,Manchester United FC,Midfielder,32,3,1,,27031666.666666668
+El Hadji Malick Diouf,Brentford FC,Defender,3,0,0,,27016666.666666668
+Yeremi Pino,Crystal Palace FC,Forward,23,0,0,,26938333.333333332
+Leo Shahar,Newcastle United FC,Defender,19,0,0,,26914000.0
+Pep Chavarría,Chelsea FC,Defender,28,0,0,,26830000.0
+Giorgi Mamardashvili,Liverpool FC,Goalkeeper,25,0,0,,26803000.0
+Nicolò Savona,Nottingham Forest FC,Defender,23,0,0,,26770000.0
+Zavier Gozo,Crystal Palace FC,Forward,19,0,0,,26736666.666666668
+Mats Wieffer,Brighton & Hove Albion FC,Defender,26,0,0,,26663333.333333332
+Aladji Bamba,Newcastle United FC,Midfielder,20,0,0,,26638888.88888889
+Anton Stach,Leeds United FC,Midfielder,27,1,0,,26566666.666666668
+Jack Hinshelwood,Brighton & Hove Albion FC,Midfielder,21,2,0,,26551000.0
+Ben Doak,AFC Bournemouth,Forward,20,0,0,,26485111.11111111
+Mason Mount,Manchester United FC,Midfielder,27,0,0,,26461666.666666668
+Mikkel Damsgaard,Brentford FC,Midfielder,26,0,0,,26457333.333333332
+Jannik Schuster,Brentford FC,Defender,20,0,0,,26426666.666666668
+Milan van Ewijk,Coventry City FC,Defender,26,0,0,,26260000.0
+Joshua Zirkzee,Manchester United FC,Forward,25,0,0,,26163333.333333332
+Jean-Philippe Mateta,Crystal Palace FC,Forward,29,0,0,,26153333.333333332
+Evann Guessand,Crystal Palace FC,Forward,25,0,0,,26080000.0
+Diego Gómez,Brighton & Hove Albion FC,Midfielder,23,0,0,,26050000.0
+Vítězslav Jaroš,Liverpool FC,Goalkeeper,25,0,0,,26012666.666666668
+Bafodé Diakité,AFC Bournemouth,Defender,25,0,0,,25987666.666666668
+Lukáš Horníček,Newcastle United FC,Goalkeeper,24,0,0,,25911000.0
+Malick Fofana,Sunderland AFC,Forward,21,0,0,,25753333.333333332
+Joshua King,Fulham FC,Midfielder,19,2,0,,25726666.666666668
+Oscar Bobb,Fulham FC,Forward,23,0,0,,25708333.333333332
+Lewis Miley,Newcastle United FC,Midfielder,20,0,0,,25615222.222222224
+Ousmane Diomande,Nottingham Forest FC,Defender,21,0,0,,25592222.222222224
+Justin Kluivert,AFC Bournemouth,Midfielder,27,1,0,,25548333.333333332
+Stephen Mfuni,Coventry City FC,Defender,18,0,0,,25535666.666666668
+Amine Adli,AFC Bournemouth,Forward,26,0,0,,25500000.0
+Alejandro Garnacho,Aston Villa FC,Forward,22,0,0,,25496666.666666668
+Tyrique George,Everton FC,Forward,20,1,0,,25325000.0
+Youri Tielemans,Manchester United FC,Midfielder,29,0,0,,25183333.333333332
+Tyrick Mitchell,Crystal Palace FC,Defender,27,2,0,,25121666.666666668
+Bobby Thomas,Coventry City FC,Defender,25,0,0,,24994000.0
+Dominic Solanke,Tottenham Hotspur FC,Forward,29,0,0,,24890000.0
+Calvin Bassey,Fulham FC,Defender,26,0,0,,24876666.666666668
+Illan Meslier,Arsenal FC,Goalkeeper,26,0,0,,24803333.333333332
+Joel Latibeaudiere,Coventry City FC,Defender,26,0,0,,24800000.0
+Richarlison,Tottenham Hotspur FC,Forward,29,0,0,,24798666.666666668
+Chris Richards,Crystal Palace FC,Defender,26,0,0,,24796666.666666668
+Ethan Ampadu,Leeds United FC,Midfielder,26,0,0,,24791333.333333332
+Noah Okafor,Leeds United FC,Forward,26,1,0,,24754666.666666668
+Femi Azeez,Brighton & Hove Albion FC,Midfielder,25,0,0,,24729000.0
+Elliot Stroud,Hull City AFC,Forward,24,0,0,,24671666.666666668
+James Hill,AFC Bournemouth,Defender,24,0,0,,24645000.0
+Merlin Röhl,Everton FC,Midfielder,24,0,0,,24633333.333333332
+Jack Clarke,Ipswich Town FC,Forward,25,1,0,,24633333.333333332
+Melvin Bard,Leeds United FC,Defender,25,0,0,,24592666.666666668
+Ibrahim Osman,Brighton & Hove Albion FC,Forward,21,0,0,,24565333.333333332
+Luc De Fougerolles,Fulham FC,Defender,20,0,0,,24379444.444444444
+Yoane Wissa,Newcastle United FC,Forward,30,1,1,,24350000.0
+Evan Ferguson,Brighton & Hove Albion FC,Forward,21,0,0,,24248666.666666668
+Ibrahim M'Baye,Aston Villa FC,Forward,18,0,0,,24126666.666666664
+Kaye Furo,Brentford FC,Forward,19,0,0,,24075333.333333332
+Dejan Kulusevski,Tottenham Hotspur FC,Midfielder,26,0,0,,24070000.0
+Tarik Muharemović,Leeds United FC,Defender,23,0,0,,23883333.333333332
+David Affengruber,Fulham FC,Defender,25,0,0,,23730000.0
+Mohamed Ali Cho,Hull City AFC,Forward,22,0,0,,23625222.222222224
+Michael Svoboda,Brighton & Hove Albion FC,Defender,27,0,0,,23588333.333333332
+Ryan John Giles,Hull City AFC,Defender,26,0,0,,23567333.333333332
+Pascal Groß,Brighton & Hove Albion FC,Midfielder,35,3,3,,23483027.777777776
+Mamadou Sangare,Brentford FC,Midfielder,24,0,0,,23478000.0
+Nikola Milenković,Nottingham Forest FC,Defender,28,0,0,,23306666.666666668
+Lucas Herrington,Hull City AFC,Defender,19,0,0,,23252777.777777776
+Lamare Bogarde,Aston Villa FC,Midfielder,22,0,0,,23041666.666666668
+Max Aarons,AFC Bournemouth,Defender,26,0,0,,22976666.666666668
+Abdoul Ouattara,Ipswich Town FC,Defender,20,0,0,,22921666.666666668
+Harry Amass,Manchester United FC,Defender,19,0,0,,22886666.666666668
+Darko Gyabi,Hull City AFC,Midfielder,22,0,0,,22876666.666666668
+Kaine Kesler,Coventry City FC,Defender,23,0,0,,22864000.0
+Caleb Yirenkyi,Coventry City FC,Midfielder,20,0,0,,22783333.333333332
+Dominic Calvert-Lewin,Leeds United FC,Forward,29,2,1,,22560000.0
+Pascal Struijk,Brighton & Hove Albion FC,Defender,27,0,0,,22558333.333333332
+Mateo Fernandez,Leeds United FC,Forward,22,0,0,,22515333.333333332
+Joe Gelhardt,Hull City AFC,Forward,24,0,0,,22491666.666666668
+Hákon Rafn Valdimarsson,Brentford FC,Goalkeeper,24,0,0,,22462333.333333332
+Chemsdine Talbi,Sunderland AFC,Forward,21,0,0,,22416666.666666668
+Dayann Methalie,Sunderland AFC,Defender,20,0,0,,22414444.444444444
+Lisandro Martínez,Manchester United FC,Defender,28,0,0,,22406666.666666668
+Joelinton,Newcastle United FC,Midfielder,30,0,0,,22400000.0
+Takehiro Tomiyasu,Crystal Palace FC,Defender,27,0,0,,22318333.333333332
+Ryan Sessegnon,Fulham FC,Defender,26,0,0,,22301333.333333332
+Veljko Milosavljević,AFC Bournemouth,Defender,19,0,0,,22277777.777777776
+Mike Penders,Chelsea FC,Goalkeeper,21,0,0,,22271444.444444444
+Jake O'Brien,Everton FC,Defender,25,0,0,,22206666.666666668
+Vitalii Mykolenko,Everton FC,Defender,27,0,0,,22200000.0
+James Garner,Everton FC,Midfielder,25,0,0,,22161333.333333332
+Jack Rudoni,Coventry City FC,Midfielder,25,0,0,,22153333.333333332
+Aaron Hickey,Brentford FC,Defender,24,0,0,,22124666.666666668
+Hayden Hackney,Everton FC,Midfielder,24,0,0,,22085000.0
+Caoimhin Kelleher,Brentford FC,Goalkeeper,27,0,0,,22036666.666666668
+Axel Disasi,Crystal Palace FC,Defender,28,0,0,,22000000.0
+Dean Henderson,Crystal Palace FC,Goalkeeper,29,0,0,,21959666.666666668
+Alysson,Aston Villa FC,Forward,20,1,0,,21952222.222222224
+Harry Wilson,Leeds United FC,Forward,29,0,0,,21920000.0
+Wilson Odobert,Tottenham Hotspur FC,Forward,21,0,0,,21884380.95238095
+Mathys Tel,Tottenham Hotspur FC,Forward,21,0,0,,21884380.95238095
+Tyler Adams,AFC Bournemouth,Midfielder,27,0,0,,21841666.666666668
+Aurele Amenda,Coventry City FC,Defender,23,0,0,,21776666.666666668
+Jonah Kusi-Asare,Fulham FC,Forward,19,0,0,,21659555.555555552
+Sindre Egeli,Ipswich Town FC,Forward,20,0,0,,21623111.111111112
+Jocelin Bi,Sunderland AFC,Forward,21,0,0,,21621666.666666668
+Kyran Thompson,Newcastle United FC,Unknown,17,0,0,,21620666.666666668
+Michael Mills,Newcastle United FC,Unknown,17,0,0,,21620666.666666668
+Mason Miley,Newcastle United FC,Unknown,17,0,0,,21620666.666666668
+Hugo Larsson,Fulham FC,Midfielder,22,0,0,,21585000.0
+Sidiki Cherif,Coventry City FC,Forward,19,0,0,,21582111.11111111
+David Brooks,AFC Bournemouth,Forward,29,0,0,,21560000.0
+James McAtee,Nottingham Forest FC,Midfielder,23,0,0,,21521666.666666668
+Wilson Isidor,Sunderland AFC,Forward,26,1,0,,21518333.333333332
+Abdul Issahaku,Ipswich Town FC,Forward,22,0,0,,21496666.666666668
+Brian Madjo,Aston Villa FC,Forward,17,0,0,,21453333.33333333
+Chris Rigg,Sunderland AFC,Midfielder,19,0,0,,21368333.333333332
+Juanlu,AFC Bournemouth,Defender,23,0,0,,21365000.0
+Luke Woolfenden,Coventry City FC,Defender,27,0,0,,21251333.333333332
+Tyler Fletcher,Manchester United FC,Midfielder,19,0,0,,21236666.666666668
+Jack Fletcher,Manchester United FC,Midfielder,19,0,0,,21236666.666666668
+Jaidon Anthony,Brentford FC,Forward,26,1,0,,21218333.333333332
+Jay Dasilva,Coventry City FC,Defender,28,1,0,,21163333.333333332
+Ewen Jaouen,Newcastle United FC,Goalkeeper,20,0,0,,21124666.666666668
+Trai Hume,Sunderland AFC,Defender,24,0,0,,21118333.333333332
+Ainsley Maitland-Niles,Everton FC,Defender,29,1,0,,21118333.333333332
+Stefanos Tzimas,Brighton & Hove Albion FC,Forward,20,0,0,,21105333.333333332
+Shea Lacey,Manchester United FC,Forward,19,0,0,,21006666.666666668
+Kaoru Mitoma,Brighton & Hove Albion FC,Forward,29,0,0,,21006666.666666668
+Dwight McNeil,Crystal Palace FC,Forward,26,0,0,,20983333.333333332
+Josh Eccles,Coventry City FC,Midfielder,26,0,0,,20965000.0
+Exequiel Palacios,Ipswich Town FC,Midfielder,27,0,0,,20931666.666666668
+Sean Steur,Newcastle United FC,Midfielder,18,0,0,,20931111.11111111
+Óscar Mingueza,Crystal Palace FC,Defender,27,0,0,,20918333.333333332
+Ellis Simms,Coventry City FC,Forward,25,0,0,,20712888.88888889
+Younes Ibrahim,Brighton & Hove Albion FC,Unknown,18,0,0,,20694444.444444444
+Aji Alese,Sunderland AFC,Defender,25,0,0,,20636666.666666668
+Zadok Yohanna,Brighton & Hove Albion FC,Forward,19,0,0,,20583111.11111111
+Emile Smith Rowe,Fulham FC,Midfielder,26,0,0,,20550000.0
+Jacob Greaves,Ipswich Town FC,Defender,26,0,0,,20503000.0
+George Hemmings,Aston Villa FC,Forward,19,0,0,,20398888.888888888
+Tosin Adarabioyo,Tottenham Hotspur FC,Defender,29,0,0,,20385000.0
+Jean Bahoya,Leeds United FC,Forward,21,0,0,,20333333.333333332
+Antoni Milambo,Brentford FC,Midfielder,21,0,0,,20291333.333333332
+Jayden Bogle,Leeds United FC,Defender,26,2,0,,20256666.666666668
+Noah Sadiki,Sunderland AFC,Midfielder,21,0,0,,20178333.333333332
+Marcos Senesi,Tottenham Hotspur FC,Defender,29,0,0,,20128333.333333332
+Noussair Mazraoui,Manchester United FC,Defender,28,0,0,,20113333.333333332
+Jules Ahoka,Sunderland AFC,Midfielder,20,0,0,,20066666.666666668
+Rodrigo Bentancur,Tottenham Hotspur FC,Midfielder,29,0,0,,20061666.666666668
+Zion Suzuki,Aston Villa FC,Goalkeeper,24,0,0,,20036666.666666668
+Victor Torp,Coventry City FC,Midfielder,27,0,0,,20030000.0
+James Maddison,Tottenham Hotspur FC,Midfielder,29,0,0,,19975000.0
+Marcus Rashford,Manchester United FC,Forward,28,0,0,,19954666.666666668
+Julio Enciso,Ipswich Town FC,Midfielder,22,0,0,,19943333.333333332
+Tim Iroegbunam,Hull City AFC,Midfielder,24,0,0,,19893333.333333332
+Vitaly Janelt,Brentford FC,Midfielder,28,2,0,,19721666.666666668
+Gabriel Gudmundsson,Leeds United FC,Defender,27,0,0,,19720000.0
+Trey Nyoni,Liverpool FC,Midfielder,19,0,0,,19616333.333333332
+Steven Benda,Nottingham Forest FC,Goalkeeper,27,0,0,,19544666.666666668
+Manuel Angel,Fulham FC,Midfielder,22,0,0,,19541666.666666668
+Carlos Alcaraz,Everton FC,Midfielder,23,0,0,,19506666.666666668
+Oliver McBurnie,Hull City AFC,Forward,30,0,0,,19505000.0
+Daniel Ballard,Sunderland AFC,Defender,27,0,0,,19355000.0
+Shea Charles,Fulham FC,Midfielder,22,0,0,,19316666.666666668
+Nicolás Domínguez,Nottingham Forest FC,Midfielder,28,0,0,,19277000.0
+David Akintola,Hull City AFC,Forward,30,0,0,,19251666.666666668
+Daniel Muñoz,Nottingham Forest FC,Defender,30,0,0,,19167333.333333332
+Pau Torres,Aston Villa FC,Defender,29,0,0,,19143333.333333332
+Ben Chilwell,Crystal Palace FC,Defender,29,1,0,,19139000.0
+Alex Iwobi,Fulham FC,Forward,30,0,0,,19106666.666666668
+Robinio Vaz,Hull City AFC,Forward,19,0,0,,19053333.333333332
+John,Nottingham Forest FC,Goalkeeper,30,0,0,,19048777.777777776
+Jens Hjertö-Dahl,Hull City AFC,Midfielder,20,0,0,,18947777.777777776
+Brandon Thomas-Asante,Coventry City FC,Forward,27,0,0,,18846555.555555556
+Joe Willock,Newcastle United FC,Midfielder,27,2,0,,18800000.0
+David Raya,Arsenal FC,Goalkeeper,31,0,0,,18647857.14285715
+Kepa Arrizabalaga,Arsenal FC,Goalkeeper,31,0,0,,18647857.14285715
+Alex Toth,AFC Bournemouth,Midfielder,20,0,0,,18646666.666666668
+Malick Yalcouyé,Brighton & Hove Albion FC,Midfielder,20,2,0,,18646666.666666668
+Emiliano Buendía,Aston Villa FC,Midfielder,29,1,0,,18570000.0
+Tyler Dibling,Everton FC,Forward,20,0,0,,18501666.666666668
+Mark Travers,Everton FC,Goalkeeper,27,0,0,,18490000.0
+Abdülkadir Ömür,Hull City AFC,Midfielder,27,0,0,,18430000.0
+Ola Aina,Nottingham Forest FC,Defender,29,0,0,,18430000.0
+Cheick Doucouré,Crystal Palace FC,Midfielder,26,0,0,,18380000.0
+Fabio Carvalho,Brentford FC,Midfielder,24,1,0,,18358333.333333332
+Matty Cash,Aston Villa FC,Defender,29,0,0,,18336666.666666668
+Ibrahim Sangaré,Nottingham Forest FC,Midfielder,28,0,0,,18321666.666666668
+Julio Soler,AFC Bournemouth,Defender,21,0,0,,18153333.333333332
+Brenden Aaronson,Leeds United FC,Midfielder,25,0,0,,18043333.333333332
+Jaden Philogene-Bidace,Ipswich Town FC,Forward,24,0,0,,17992666.666666668
+Timothy Castagne,Fulham FC,Defender,30,0,0,,17764666.666666668
+Kristoffer Ajer,Brentford FC,Defender,28,0,0,,17721333.333333332
+Gabriel Slonina,Chelsea FC,Goalkeeper,22,0,0,,17565666.666666668
+Rio Ngumoha,Liverpool FC,Forward,18,0,0,,17490000.0
+Federico Chiesa,Liverpool FC,Forward,28,0,0,,17378333.333333332
+Sander Berge,Fulham FC,Midfielder,28,0,0,,17363333.333333332
+Chuba Akpom,Ipswich Town FC,Forward,30,1,0,,17244000.0
+Lucas Gourna-Douath,Hull City AFC,Midfielder,23,0,0,,17221666.666666668
+Michele Di Gregorio,AFC Bournemouth,Goalkeeper,29,0,0,,17196666.666666668
+Sorba Thomas,Hull City AFC,Forward,27,0,0,,17165000.0
+Florentino,Ipswich Town FC,Midfielder,27,0,0,,17066666.666666668
+Aaron Wan-Bissaka,Aston Villa FC,Defender,28,0,0,,17040000.0
+Dara O'Shea,Ipswich Town FC,Defender,27,0,0,,16906666.666666668
+Đorđe Petrović,AFC Bournemouth,Goalkeeper,26,0,0,,16876666.666666668
+Olivier Boscagli,Brighton & Hove Albion FC,Defender,28,0,0,,16750000.0
+Joe Rodon,Leeds United FC,Defender,28,0,0,,16653333.333333334
+Ephron Mason-Clark,Coventry City FC,Forward,27,0,0,,16556888.88888889
+Antonín Kinský,Tottenham Hotspur FC,Goalkeeper,23,0,0,,16526000.0
+Ilia Gruev,Leeds United FC,Midfielder,26,0,0,,16511333.333333334
+Xaver Schlager,Nottingham Forest FC,Midfielder,28,0,0,,16473666.666666666
+Daichi Kamada,Crystal Palace FC,Midfielder,30,0,0,,16046666.666666666
+Christos Mouzakitis,Hull City AFC,Midfielder,19,0,0,,16041666.666666666
+Nordi Mukiele,Sunderland AFC,Defender,28,0,0,,15990000.0
+Kevin Danso,Sunderland AFC,Defender,28,0,0,,15890000.0
+Tammy Abraham,Aston Villa FC,Forward,28,0,0,,15861333.333333334
+Loum Tchaouna,Coventry City FC,Forward,23,0,0,,15831333.333333334
+Nico Elvedi,Leeds United FC,Defender,29,0,0,,15525000.0
+Lukas Nmecha,Leeds United FC,Forward,27,0,0,,15430000.0
+Antonee Robinson,Fulham FC,Defender,29,0,0,,15420000.0
+Alex Borto,Fulham FC,Goalkeeper,22,0,0,,15347000.0
+Jack Grealish,Everton FC,Forward,31,0,0,,15331750.0
+Jorge Cuenca,Fulham FC,Defender,26,0,0,,15263333.333333334
+Mateo Kovačić,Manchester City FC,Midfielder,32,0,0,,15194888.888888886
+Anis Mehmeti,Ipswich Town FC,Midfielder,25,0,0,,15116666.666666666
+Konstantinos Tzolakis,Hull City AFC,Goalkeeper,23,0,0,,15082333.333333334
+Carl Rushworth,Coventry City FC,Goalkeeper,25,0,0,,14964666.666666666
+Thomas McGill,Brighton & Hove Albion FC,Goalkeeper,26,0,0,,14796000.0
+Haji Wright,Coventry City FC,Forward,28,0,0,,14762222.222222224
+Marcelino Núñez,Ipswich Town FC,Midfielder,26,0,0,,14720000.0
+Julian Araujo,AFC Bournemouth,Defender,25,0,0,,14540000.0
+Regan Slater,Hull City AFC,Midfielder,27,0,0,,14231666.666666666
+Rico Henry,Brentford FC,Defender,29,0,0,,14200000.0
+Tatsuhiro Sakamoto,Coventry City FC,Forward,29,0,0,,14143333.333333334
+Eddie Nketiah,Crystal Palace FC,Forward,27,0,0,,14130000.0
+Robin Roefs,Sunderland AFC,Goalkeeper,23,0,0,,14109000.0
+Harrison Armstrong,Everton FC,Midfielder,19,0,0,,14086666.666666666
+Lewis Cook,AFC Bournemouth,Midfielder,29,0,0,,13996666.666666666
+Kasey McAteer,Ipswich Town FC,Midfielder,24,0,0,,13931666.666666666
+Frank Onyeka,Coventry City FC,Midfielder,28,0,0,,13921666.666666666
+Taiwo Awoniyi,Coventry City FC,Forward,29,0,0,,13846666.666666666
+Lewie Coyle,Hull City AFC,Defender,30,0,0,,13820666.666666666
+Kjell Scherpen,Ipswich Town FC,Goalkeeper,26,0,0,,13804000.0
+Ao Tanaka,Leeds United FC,Midfielder,28,0,0,,13790000.0
+Omar Alderete,Sunderland AFC,Defender,29,0,0,,13648333.333333334
+Kieran Dowell,Hull City AFC,Midfielder,28,0,0,,13633333.333333334
+Joachim Andersen,Fulham FC,Defender,30,0,0,,13561333.333333334
+Sean Longstaff,Leeds United FC,Midfielder,28,0,0,,13545000.0
+Zian Flemming,Ipswich Town FC,Forward,28,1,0,,13453333.333333334
+James Justin,Leeds United FC,Defender,28,0,0,,13433333.333333334
+Melker Ellborg,Sunderland AFC,Goalkeeper,23,0,0,,13325666.666666666
+Gustavo Hamer,Coventry City FC,Midfielder,29,0,0,,13295000.0
+Mathias Jensen,Brentford FC,Midfielder,30,0,0,,13231666.666666666
+Kostas Tsimikas,Liverpool FC,Defender,30,0,0,,13140000.0
+Alex Palmer,Ipswich Town FC,Goalkeeper,30,0,0,,12988777.777777778
+Christian Walton,Ipswich Town FC,Goalkeeper,30,0,0,,12988777.777777778
+Romaine Mundle,Sunderland AFC,Forward,23,0,0,,12968333.333333334
+Saša Lukić,Ipswich Town FC,Midfielder,30,0,0,,12779000.0
+Daniel James,Leeds United FC,Forward,28,0,0,,12776666.666666666
+Joe Gomez,Liverpool FC,Defender,29,0,0,,12673333.333333334
+Daizen Maeda,Ipswich Town FC,Forward,28,0,0,,12146666.666666666
+Ryan Yates,Nottingham Forest FC,Midfielder,28,0,0,,11930000.0
+Kenny Tete,Fulham FC,Defender,30,0,0,,11914666.666666666
+Thomas King,Everton FC,Goalkeeper,31,0,0,,11764277.777777778
+Darnell Furlong,Ipswich Town FC,Defender,30,0,0,,11657666.666666666
+Issa Diop,Ipswich Town FC,Defender,29,0,0,,11576666.666666666
+Cédric Kipré,Ipswich Town FC,Defender,29,0,0,,11363333.333333334
+Harvey Davies,Liverpool FC,Goalkeeper,23,0,0,,11066000.0
+Azor Matusiwa,Ipswich Town FC,Midfielder,28,0,0,,10868333.333333334
+John McGinn,Aston Villa FC,Midfielder,31,0,0,,10691666.666666666
+Michael Zetterer,Leeds United FC,Goalkeeper,31,0,0,,9945115.07936508
+Virgil van Dijk,Liverpool FC,Defender,35,0,0,,9941111.11111111
+Jordan Pickford,Everton FC,Goalkeeper,32,0,0,,9763000.0
+Emiliano Martínez,Chelsea FC,Goalkeeper,34,0,0,,9124388.88888889
+Ryan Christie,AFC Bournemouth,Midfielder,31,0,0,,8542333.333333334
+James Trafford,Leeds United FC,Goalkeeper,23,0,0,,8531666.666666666
+Josh Dasilva,Brentford FC,Midfielder,27,0,0,,8428000.0
+Géronimo Rulli,Manchester City FC,Goalkeeper,34,0,0,,8375611.111111112
+Jacob Murphy,Newcastle United FC,Forward,31,0,0,,8067847.222222222
+Freddie Woodman,Liverpool FC,Goalkeeper,29,0,0,,7903666.666666667
+Brandon Austin,Tottenham Hotspur FC,Goalkeeper,27,0,0,,7874000.0
+Abdoullah Ba,Sunderland AFC,Midfielder,23,0,0,,7668333.333333333
+Luke Shaw,Manchester United FC,Defender,31,0,0,,7549333.333333333
+Jack Taylor,Ipswich Town FC,Midfielder,28,0,0,,7266666.666666667
+Marcus Bettinelli,Manchester City FC,Goalkeeper,34,0,0,,7178833.333333333
+Andrew Robertson,Tottenham Hotspur FC,Defender,32,0,0,,7147333.333333333
+James Tarkowski,Everton FC,Defender,33,1,1,,7098333.333333333
+Harry Maguire,Manchester United FC,Defender,33,0,0,,6851444.444444445
+Christian Nørgaard,Everton FC,Midfielder,32,0,0,,6799444.444444444
+Ellery Balcombe,Brentford FC,Goalkeeper,26,0,0,,6560333.333333333
+Leon Goretzka,Aston Villa FC,Midfielder,31,0,0,,6263333.333333333
+Alisson Becker,Liverpool FC,Goalkeeper,33,0,0,,6189042.857142857
+Granit Xhaka,Sunderland AFC,Midfielder,34,0,0,,6032483.333333333
+Wataru Endō,Liverpool FC,Midfielder,33,0,0,,5951587.301587302
+Jefferson Lerma,Crystal Palace FC,Midfielder,31,0,0,,5893333.333333333
+Alex Cairns,Leeds United FC,Goalkeeper,33,0,0,,5768126.19047619
+Callum Wilson,Brentford FC,Forward,34,0,0,,5766416.666666667
+Alan Browne,Sunderland AFC,Midfielder,31,0,0,,5248833.333333333
+Chris Wood,Nottingham Forest FC,Forward,34,0,0,,5220333.333333333
+Danny Welbeck,Chelsea FC,Forward,35,0,0,,5083416.666666667
+Walter Benítez,Crystal Palace FC,Goalkeeper,33,0,0,,5005166.666666667
+Will Hughes,Crystal Palace FC,Midfielder,31,0,0,,4906000.0
+Michael Keane,Everton FC,Defender,33,0,0,,4699333.333333333
+Ross Barkley,Aston Villa FC,Midfielder,32,0,0,,4376533.333333333
+Hidemasa Morita,Hull City AFC,Midfielder,31,0,0,,4335333.333333333
+Matt Grimes,Coventry City FC,Midfielder,31,0,0,,4322666.666666667
+Fabian Schär,Newcastle United FC,Defender,34,0,0,,4190472.2222222215
+Lewis Dunk,Brighton & Hove Albion FC,Defender,34,1,0,,3961411.1111111115
+Jordan Henderson,Chelsea FC,Midfielder,36,0,0,,3864000.0
+Harrison Reed,Fulham FC,Midfielder,31,0,0,,3680666.6666666665
+Dillon Phillips,Hull City AFC,Goalkeeper,31,0,0,,3546638.8888888895
+Victor Nilsson-Lindelöf,Aston Villa FC,Defender,32,0,0,,3497000.0
+Ben Davies,Tottenham Hotspur FC,Defender,33,0,0,,3440583.3333333335
+Dan Burn,Newcastle United FC,Defender,34,0,0,,3432555.555555555
+Matty Crooks,Hull City AFC,Midfielder,32,0,0,,3309666.6666666665
+Jason Steele,Brighton & Hove Albion FC,Goalkeeper,36,0,0,,3233022.2222222225
+Matz Sels,Nottingham Forest FC,Goalkeeper,34,0,0,,3160055.555555556
+Ethan Pinnock,Coventry City FC,Defender,33,0,0,,3159000.0
+Tyrone Mings,Aston Villa FC,Defender,33,0,0,,3096866.6666666665
+Reinildo,Sunderland AFC,Defender,32,0,0,,3090500.0
+Marco Bizot,Aston Villa FC,Goalkeeper,35,0,0,,3017583.3333333335
+Matt Targett,Hull City AFC,Defender,31,0,0,,2908000.0
+Thomas Meunier,Sunderland AFC,Defender,35,0,0,,2684833.3333333335
+Luke O'Nien,Sunderland AFC,Defender,31,0,0,,2664333.3333333335
+Jake Bidwell,Coventry City FC,Defender,33,0,0,,2651000.0
+Nick Pope,Newcastle United FC,Goalkeeper,34,0,0,,2516758.3333333335
+Mark Gillespie,Newcastle United FC,Goalkeeper,34,0,0,,2516758.3333333335
+Tom Cairney,Fulham FC,Midfielder,35,0,0,,2486194.4444444445
+Paddy McNair,Hull City AFC,Defender,31,0,0,,2436333.3333333335
+Adam Smith,AFC Bournemouth,Defender,35,0,0,,2362883.3333333335
+Semi Ajayi,Hull City AFC,Defender,32,1,0,,2003333.3333333333
+Jack Butland,Hull City AFC,Goalkeeper,33,0,0,,1980500.0
+Bernd Leno,Fulham FC,Goalkeeper,34,0,0,,1806677.7777777775
+John Egan,Hull City AFC,Defender,33,0,0,,1731000.0
+Ben Wilson,Coventry City FC,Goalkeeper,34,0,0,,1546477.7777777778
+Daniel Bentley,Coventry City FC,Goalkeeper,33,0,0,,1524499.9999999998
+Remi Matthews,Crystal Palace FC,Goalkeeper,32,0,0,,1471861.111111111
+Karl Darlow,Manchester United FC,Goalkeeper,35,0,0,,1281250.0
+Benjamin Lecomte,Fulham FC,Goalkeeper,35,0,0,,935750.0
+Tom Heaton,Manchester United FC,Goalkeeper,40,0,0,,928666.6666666666
+Martin Dúbravka,Tottenham Hotspur FC,Goalkeeper,37,0,0,,819750.0
+David Button,Ipswich Town FC,Goalkeeper,37,0,0,,695925.0
+Fraser Forster,AFC Bournemouth,Goalkeeper,38,0,0,,422944.44444444444
+Simon Moore,Sunderland AFC,Goalkeeper,36,0,0,,407833.3333333333
