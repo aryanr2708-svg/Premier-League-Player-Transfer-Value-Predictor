@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Premier League Player Market Value Predictor
 
 Predicts market values for current Premier League players using performance
@@ -111,3 +112,41 @@ Output: `data/predicted_values.csv`, ranked by predicted value.
 | `build_dataset.py` | Builds `data/player_features.csv` |
 | `train_model.py` | Merges features + your market values, trains + evaluates the model |
 | `predict.py` | Predicts values for every current player, saves ranked CSV |
+=======
+# Premier-League-Player-Transfer-Value-Predictor
+# Football Transfer Value Predictor
+
+## About
+Machine learning project that predicts football player
+market values for Premier League and La Liga players.
+
+## Dataset
+Explain where the player statistics and market values came from.
+
+## Features
+- Age
+- Position
+- Goals
+- Assists
+- Appearances
+- Minutes
+- etc.
+
+## Models
+- Linear Regression
+- Random Forest
+- XGBoost (if you used it)
+
+## Evaluation
+Explain MAE / RMSE / R² results.
+
+## How to Run
+Explain how someone can install dependencies
+and run the prediction script.
+
+## Future Improvements
+- More leagues
+- More seasons
+- Better features
+- Web interface
+>>>>>>> 023469f7963cc94f72ea39b4a5fb5c6e36b9f2ea
