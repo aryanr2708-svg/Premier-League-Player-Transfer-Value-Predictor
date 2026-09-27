@@ -1,15 +1,3 @@
-"""
-One-off converter for a Transfermarkt-style bulk export (the kind of CSV
-commonly found on Kaggle, with columns like player_id, name, last_season,
-current_club_domestic_competition_id, market_value_in_eur, etc.)
-
-It filters down to players active in the most recent season present in the
-file and with a non-null market value, then writes out the two-column
-format train_model.py expects: player_name, market_value_eur.
-
-Usage:
-    python convert_transfermarkt_export.py /path/to/raw_export.csv
-"""
 
 import sys
 import pandas as pd

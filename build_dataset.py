@@ -1,17 +1,3 @@
-"""
-Turns the raw cached JSON (squads, scorers, matches) into one row-per-player
-feature table, saved as data/player_features.csv.
-
-Features engineered:
-  - age (from dateOfBirth)
-  - position (raw string from API, e.g. "Centre-Forward")
-  - position_group (Goalkeeper / Defender / Midfielder / Forward, simplified)
-  - nationality
-  - team, team_id
-  - goals, assists, penalties, matches_played  (from scorers endpoint; 0 if not a scorer)
-  - team_win_rate, team_goals_for_avg, team_goals_against_avg (from matches, as a proxy
-    for "plays for a strong/weak team", which correlates with market value)
-"""
 
 import json
 import os
@@ -139,7 +125,7 @@ def build_player_features() -> pd.DataFrame:
         df["team_win_rate"] = None
         df["team_goals_for_avg"] = None
         df["team_goals_against_avg"] = None
-    # Bring in photos from the Transfermarkt data (football-data.org has no image URLs)
+
     market_values_path = f"{DATA_DIR}/pl_market_values.csv"
     if os.path.exists(market_values_path):
        tm = pd.read_csv(market_values_path)

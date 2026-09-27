@@ -1,21 +1,3 @@
-"""
-Trains a market value regression model.
-
-Requires two inputs:
-  1. data/player_features.csv   -> produced by build_dataset.py (stats from football-data.org)
-  2. data/market_values.csv     -> YOU supply this. Must have at minimum:
-         player_name, market_value_eur
-     Optional but helpful: player_id (if you can match football-data.org IDs), team
-
-Since football-data.org has no market-value data, this file is the join key to
-real-world labels. Good free sources: Transfermarkt (scrape or pre-scraped Kaggle
-dataset, e.g. search "Transfermarkt player market value dataset" on Kaggle).
-
-Matching strategy: exact match on player_id if present in both files, else fuzzy
-match on player_name (simple normalized string match; swap in `rapidfuzz` for
-better fuzzy matching on a large dataset).
-"""
-
 import os
 import joblib
 import numpy as np

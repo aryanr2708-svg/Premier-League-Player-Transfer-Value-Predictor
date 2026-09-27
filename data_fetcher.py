@@ -1,14 +1,3 @@
-"""
-Pulls raw Premier League data from football-data.org using the requests library.
-
-Endpoints used:
-  GET /v4/competitions/PL/teams        -> teams + squads (players, position, DOB, nationality)
-  GET /v4/teams/{id}                   -> single team detail (fallback / richer squad info)
-  GET /v4/competitions/PL/scorers      -> top scorers (goals, assists, penalties, matches played)
-  GET /v4/competitions/PL/matches      -> match results (used to compute team strength)
-
-Rate limit on the free tier is 10 requests/minute, so we sleep between calls.
-"""
 
 import json
 import os

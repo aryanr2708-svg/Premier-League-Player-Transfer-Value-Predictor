@@ -1,9 +1,3 @@
-"""
-Loads the trained model and predicts market values for every player in
-data/player_features.csv (i.e. the full current PL squads), including those
-with no ground-truth label. Saves results to data/predicted_values.csv.
-"""
-
 import joblib
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -20,14 +14,13 @@ def predict_all() -> pd.DataFrame:
         encoding="utf-8-sig"
     )
 
-    # Make sure all numeric features exist
+
     for col in NUMERIC_FEATURES:
         if col not in df.columns:
             df[col] = 0
 
     df[NUMERIC_FEATURES] = df[NUMERIC_FEATURES].fillna(0)
 
-    # Make sure all categorical features exist
     for col in CATEGORICAL_FEATURES:
         if col not in df.columns:
             df[col] = "Unknown"
@@ -38,19 +31,17 @@ def predict_all() -> pd.DataFrame:
             .astype(str)
         )
 
-    # Prepare features
+
     X = df[
         NUMERIC_FEATURES + CATEGORICAL_FEATURES
     ]
 
-    # Predict market values
     df["predicted_market_value_eur"] = pipeline.predict(X)
 
-    # Make sure image_url exists
     if "image_url" not in df.columns:
         df["image_url"] = ""
 
-    # Clean missing image URLs
+
     df["image_url"] = (
         df["image_url"]
         .fillna("")
@@ -63,7 +54,6 @@ def predict_all() -> pd.DataFrame:
         .str.strip()
     )
 
-    # Output path
     out_path = f"{DATA_DIR}/predicted_values.csv"
 
     cols = [
@@ -96,7 +86,7 @@ def predict_all() -> pd.DataFrame:
         f"Saved predictions for {len(df)} players to {out_path}"
     )
 
-    # Format values for terminal display
+
     def _abbreviate(v: float) -> str:
         if v >= 1_000_000:
             return f"€{v / 1_000_000:.1f}M"
@@ -123,12 +113,10 @@ def predict_all() -> pd.DataFrame:
         display.to_string(index=False)
     )
 
-    # Generate chart
     _show_chart(
         ranked.head(top_n)
     )
 
-    # Generate HTML report
     _generate_html_report(
         ranked.head(top_n)
     )
